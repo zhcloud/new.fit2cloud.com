@@ -936,7 +936,7 @@ img {
 .carousel-inner > .item > a > img {
   display: block;
   width: 100% \9;
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
 }
 .img-rounded {
@@ -4097,6 +4097,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
+  font-size: 30px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -4108,18 +4109,22 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a {
   color: #ffffff;
+  cursor: pointer;
+  outline: 0px none;
+  font-size: 16px;
+  font-weight: 200;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #428BCA;
   background-color: transparent;
 }
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-  color: #555;
-  background-color: #e7e7e7;
-}
+/*.navbar-default .navbar-nav > .active > a,*/
+/*.navbar-default .navbar-nav > .active > a:hover,*/
+/*.navbar-default .navbar-nav > .active > a:focus {*/
+  /*color: #555;*/
+  /*background-color: #e7e7e7;*/
+/*}*/
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
 .navbar-default .navbar-nav > .disabled > a:focus {
