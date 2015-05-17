@@ -34,13 +34,16 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center fixed;
+    background: url(../img/gp-blue.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 
+.intro-header.container {
+    background: none repeat scroll 0% 0% rgba(0, 5, 8, 0.45);
+}
 .intro-message {
     position: relative;
     padding-top: 20%;
@@ -89,8 +92,8 @@ h6 {
 
 .network-name {
     text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 700;
     letter-spacing: 2px;
 }
 
@@ -169,4 +172,27 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.btn-try {
+    margin: 5px 20px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.nav-try {
+    padding: 5px 10px;
+    float: right;
+}
+
+.nav-brand {
+    float: left;
+    max-height: 60px;
+    padding-left: 0;
+    padding-right: 2em;
+}
+
+#logo {
+    max-height: 60px;
+    padding: .8em 0;
 }

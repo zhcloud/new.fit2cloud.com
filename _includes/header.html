@@ -13,17 +13,30 @@
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">  
+            <ul class="nav navbar-nav navbar-left">
             	<li>
-                    <a class="page-scroll" href="#about">关于</a>
-                </li>            
+                    <a class="page-scroll" href="#introductions">产品</a>
+                </li>
                 <li>
                     <a class="page-scroll" href="#customers">客户案例</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#">价格</a>
                 </li>
+                <li>
+                    <a class="page-scroll" href="#">博客</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#">文档</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#about">关于</a>
+                </li>
             </ul>
+
+            <div class="nav-try">
+                <a class="btn btn-primary btn-try" href="#">免费试用</a>
+            </div>
         </div>
         <!-- /.navbar-collapse -->
     </div>
@@ -39,16 +52,14 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="intro-message">
-						<h1>{{ page.title }}</h1>
+						<h2>{{ page.title }}</h2>
 						<h3>{{ page.subTitle }}</h3>
-						<!--<hr class="intro-divider">-->
-						<!--<ul class="list-inline intro-social-buttons">-->
-							<!--{% for social in site.social %}-->
-							<!--<li>-->
-								<!--<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>-->
-							<!--</li>-->
-							<!--{% endfor %}-->
-						<!--</ul>-->
+						<hr class="intro-divider">
+						<ul class="list-inline intro-social-buttons">
+							<li>
+								<a href="#" class="btn glyphicon glyphicon-cloud-download btn-primary btn-lg"><span class="network-name">下载技术白皮书</span></a>
+							</li>
+						</ul>
 					</div>
 				</div>
 			</div>
