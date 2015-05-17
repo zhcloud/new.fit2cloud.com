@@ -2,14 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+url: http://fit2cloud.com
+title: FIT2CLOUD
+email: support@fit2cloud.com
+author: fit2cloud
+description: > # "Official FIT2CLOUD Site"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
