@@ -2,21 +2,21 @@
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_posts/2015-05-17-introductions-1.markdown":
   mtime: 2015-05-17 17:09:06.872590314 +08:00
   deps:
-  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/head.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/home.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/introductions.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/contact.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/default.html"
-"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/head.html":
-  mtime: 2015-05-17 18:08:36.336651827 +08:00
-  deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html":
-  mtime: 2015-05-17 18:38:27.392682693 +08:00
+  mtime: 2015-05-24 15:45:12.747260503 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/home.html":
+  mtime: 2015-05-24 11:34:48.767753024 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/introductions.html":
-  mtime: 2015-05-17 16:48:00.480568490 +08:00
+  mtime: 2015-05-24 16:02:12.731296207 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/contact.html":
   mtime: 2015-05-17 16:55:29.260576224 +08:00
@@ -25,16 +25,16 @@
   mtime: 2015-05-17 17:38:48.568621018 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html":
-  mtime: 2015-05-17 18:05:10.376648278 +08:00
+  mtime: 2015-05-24 12:10:55.175828858 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/default.html":
-  mtime: 2015-05-17 16:27:01.852546800 +08:00
+  mtime: 2015-05-24 11:35:20.343754129 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_posts/2015-05-17-introductions-2.markdown":
-  mtime: 2015-05-17 17:09:06.856590314 +08:00
+  mtime: 2015-05-24 15:57:38.759286617 +08:00
   deps:
-  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/head.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/home.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/introductions.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/contact.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
@@ -43,8 +43,8 @@
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_posts/2015-05-17-introductions-3.markdown":
   mtime: 2015-05-17 17:09:06.864590314 +08:00
   deps:
-  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/head.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/home.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/introductions.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/contact.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
@@ -53,23 +53,53 @@
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_posts/2015-05-17-introductions-4.markdown":
   mtime: 2015-05-17 17:09:06.868590314 +08:00
   deps:
-  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/head.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/home.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/introductions.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/contact.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/default.html"
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/about.html":
+  mtime: 2015-05-24 11:26:56.123736479 +08:00
+  deps:
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/about.html"
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/about.html":
+  mtime: 2015-05-24 11:37:21.455758369 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/customers.html":
+  mtime: 2015-05-24 11:23:31.839729328 +08:00
+  deps:
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/customers.html"
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/customers.html":
+  mtime: 2015-05-24 14:10:15.341985071 +08:00
+  deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/index.html":
   mtime: 2015-05-17 16:25:39.872545387 +08:00
   deps:
-  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/head.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/home.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/introductions.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/contact.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html"
   - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/default.html"
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/pricing.html":
+  mtime: 2015-05-24 11:26:44.767736082 +08:00
+  deps:
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/js.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_includes/footer.html"
+  - "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/pricing.html"
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/_layouts/pricing.html":
+  mtime: 2015-05-24 17:12:54.527444690 +08:00
+  deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/README.md":
   mtime: 2015-05-05 16:22:50.000000000 +08:00
   deps: []
@@ -78,6 +108,9 @@
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/css/landing-page.css":
   mtime: 2015-05-17 18:26:50.440670682 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/css/pricing.css":
+  mtime: 2015-05-24 17:11:07.623440948 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/landing/landing-page-theme/font-awesome-4.1.0/css/font-awesome.css":
   mtime: 2015-05-05 16:22:50.000000000 +08:00
