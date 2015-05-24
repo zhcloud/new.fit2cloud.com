@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://fit2cloud.com
+headtitle: FIT2CLOUD
+title: FIT2CLOUD云管理及DevOps协作平台
+email: support@fit2cloud.com
+author: fit2cloud
+description: "FIT2CLOUD是一个建立在IaaS之上的云管理及DevOps协作平台，帮助企业提高云成熟度，实现云资源创建自动化、服务器自动化、混合云管理、应用部署升级自动化和持续交付。"
+keywords: "阿里云Aliyun,微软Azure,亚马逊AWS,青云QingCloud,DevOps,应用生命周期管理,云管理平台,全栈自动化"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - icon-font: weibo
+    title: 微博
+    url: https://weibo.com/fit2cloud
+  - icon-font: mail-reply-all
+    title: 邮件
+    url: mailto:support@fit2cloud.com
