@@ -1,6 +1,6 @@
 ---
 layout: default
-img: multi-clouds.png
+img: hybridclouds.png
 category: Introductions
 title: 混合云管理
 description: 帮助运维人员统一管理不同来源的主机

@@ -1,6 +1,6 @@
 ---
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-1.markdown":
-  mtime: 2015-05-24 18:13:40.606213602 +08:00
+  mtime: 2015-06-11 00:29:28.008827808 +08:00
   deps:
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
@@ -13,16 +13,16 @@
   mtime: 2015-05-24 15:45:12.747260503 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html":
-  mtime: 2015-05-24 11:34:48.767753024 +08:00
+  mtime: 2015-06-11 00:03:57.832866932 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/introductions.html":
-  mtime: 2015-05-24 16:02:12.731296207 +08:00
+  mtime: 2015-06-11 01:57:47.748692303 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/contact.html":
-  mtime: 2015-05-17 16:55:29.260576224 +08:00
+  mtime: 2015-06-11 01:45:32.716711096 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/footer.html":
-  mtime: 2015-05-17 17:38:48.568621018 +08:00
+  mtime: 2015-06-11 01:53:53.900698282 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/js.html":
   mtime: 2015-05-24 12:10:55.175828858 +08:00
@@ -31,7 +31,7 @@
   mtime: 2015-05-24 11:35:20.343754129 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-2.markdown":
-  mtime: 2015-05-24 18:13:40.606213602 +08:00
+  mtime: 2015-06-11 00:29:28.004827808 +08:00
   deps:
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
@@ -41,7 +41,7 @@
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/js.html"
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_layouts/default.html"
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-3.markdown":
-  mtime: 2015-05-17 17:09:06.864590314 +08:00
+  mtime: 2015-06-11 00:29:28.020827808 +08:00
   deps:
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
@@ -51,7 +51,7 @@
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/js.html"
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_layouts/default.html"
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-4.markdown":
-  mtime: 2015-05-17 17:09:06.868590314 +08:00
+  mtime: 2015-06-11 00:29:28.012827808 +08:00
   deps:
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
   - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
@@ -104,10 +104,10 @@
   mtime: 2015-05-05 16:22:50.000000000 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/css/bootstrap.css":
-  mtime: 2015-05-17 18:11:10.668654487 +08:00
+  mtime: 2015-06-11 01:45:08.428711717 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/css/landing-page.css":
-  mtime: 2015-05-24 18:49:33.039692846 +08:00
+  mtime: 2015-06-11 01:44:16.936713034 +08:00
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/css/pricing.css":
   mtime: 2015-05-24 17:11:07.623440948 +08:00
@@ -231,4 +231,88 @@
   deps: []
 "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/js/landing-page.js":
   mtime: 2015-05-05 16:22:50.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/1.png":
+  mtime: 2015-06-10 16:49:17.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/2.png":
+  mtime: 2015-06-10 16:49:35.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/3.png":
+  mtime: 2015-06-10 16:49:50.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/4.png":
+  mtime: 2015-06-10 16:50:08.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/5.png":
+  mtime: 2015-06-10 16:50:47.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/焦点图.jpg":
+  mtime: 2015-06-10 16:52:18.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/home-bg.jpg":
+  mtime: 2015-06-10 16:52:18.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/1.png":
+  mtime: 2015-06-10 16:49:17.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/2.png":
+  mtime: 2015-06-10 16:49:35.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/3.png":
+  mtime: 2015-06-10 16:49:50.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/4.png":
+  mtime: 2015-06-10 16:50:08.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/5.png":
+  mtime: 2015-06-10 16:50:47.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-5.markdown":
+  mtime: 2015-06-11 00:30:25.316826343 +08:00
+  deps:
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/introductions.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/contact.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/footer.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/js.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_layouts/default.html"
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-6.markdown":
+  mtime: 2015-05-17 17:09:06.868590314 +08:00
+  deps:
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/introductions.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/contact.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/footer.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/js.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_layouts/default.html"
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_posts/2015-05-17-introductions-.markdown":
+  mtime: 2015-06-10 22:12:51.000000000 +08:00
+  deps:
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/header.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/home.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/introductions.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/contact.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/footer.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_includes/js.html"
+  - "/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/_layouts/default.html"
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/home-bg-1.png":
+  mtime: 2015-06-10 22:46:17.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/hybridclouds.png":
+  mtime: 2015-06-10 16:49:17.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/automated.png":
+  mtime: 2015-06-10 16:49:35.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/selfservice.png":
+  mtime: 2015-06-10 16:49:50.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/monitor-alert.png":
+  mtime: 2015-06-10 16:50:47.000000000 +08:00
+  deps: []
+"/home/chilaoqi/Dropbox/f2c/new.fit2cloud.com/img/introductions/continuous.png":
+  mtime: 2015-06-10 16:50:08.000000000 +08:00
   deps: []
