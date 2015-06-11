@@ -191,8 +191,79 @@ footer {
     background-color: #002540;
     font-weight: 200;
     color: #969DA5;
+    margin-bottom: 0;
 }
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+
+/* Customers */
+
+#case-banner {
+    background: url("../img/case-study.jpg") no-repeat center;
+    background-size: cover;
+    padding-top: 60px;
+    width: 100%;
+    height: 60%;
+    max-width: 100%;
+}
+#customer-container {
+    padding-top: 60px;
+    max-width: 80%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    min-height: 500px;
+}
+
+.container .case-tab {
+    display: none
+}
+
+.container .case-tab:first-child {
+    display: block
+}
+
+.case-tab .case-item {
+    border-top: solid 1px #f0f0ff;
+    height: 184px;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.case-tab .case-item:first-child {
+    border-top: none;
+    margin-top: 40px
+}
+
+.container a.case-logo {
+    display: block;
+    width: 200px;
+    height: 122px;
+    border: 1px solid #f0f0ff;
+    text-align: center
+}
+
+.case-logo img {
+    max-height: 200px;
+    max-width: 122px;
+}
+
+.container .case-item h2 {
+    margin-top: 0px;
+}
+
+.container .case-item h2 a{
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #2c2f35;
+}
+
+.case-item p {
+    font-size: 16px;
+    line-height: 1.6em;
+    text-indent: 0!important;
+    font-weight: 300;
 }
