@@ -936,7 +936,7 @@ img {
 .carousel-inner > .item > a > img {
   display: block;
   width: 100% \9;
-  max-width: 75%;
+  max-width: 80%;
   height: auto;
 }
 .img-rounded {
@@ -1110,7 +1110,7 @@ p {
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 16px;
   }
 }
 small,
@@ -1391,10 +1391,11 @@ pre code {
   overflow-y: scroll;
 }
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
+  max-width:88%;
 }
 @media (min-width: 768px) {
   .container {
@@ -3768,8 +3769,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  min-height: 50px;
-  margin-bottom: 20px;
+  min-height: 60px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
@@ -3879,7 +3879,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
+  height: 60px;
   padding: 15px 15px;
   font-size: 24px;
   line-height: 20px;
@@ -3958,6 +3958,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav {
     float: left;
     margin: 0;
+    padding-top:6px;
   }
   .navbar-nav > li {
     float: left;
@@ -4095,14 +4096,34 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #2B415A;
   border-bottom: 1px solid #233549;
 }
-.navbar-default .navbar-brand {
-  color: #ffffff;
-  font-size: 30px;
+.navbar-default .logo {
+    float: left;
+    padding-left: 0px;
+    padding-right: 2em;
 }
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus {
-  color: #ffffff;
-  background-color: transparent;
+.navbar-default .logo img {
+    max-height: 60px;
+    padding: 0.8em 0px;
+}
+.btn-try {
+    margin: 5px 20px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.nav-try {
+    padding-top: 8px;
+    float: right;
+}
+.btn{
+    margin: 4px;
+    color: #fff;
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus {
+    outline: none;
+    outline-offset: 0px;
 }
 .navbar-default .navbar-text {
   color: #ffffff;
@@ -5477,8 +5498,8 @@ button.close {
 .modal-scrollbar-measure {
   position: absolute;
   top: -9999px;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
   overflow: scroll;
 }
 @media (min-width: 768px) {

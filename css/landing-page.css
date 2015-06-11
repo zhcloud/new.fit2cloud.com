@@ -23,21 +23,14 @@ h6 {
     font-weight: 700;
 }
 
-.lead {
-    font-size: 18px;
-    font-weight: 400;
-}
-
 .home-wrapper {
     background-color: #06497D;
     height:100%;
     width:100%;
-    padding-top: 50px;
     text-align: center;
 }
 .home{
     height:100%;
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     text-align: center;
     color: #06497D;
     background: url(../img/home-bg-1.png) no-repeat center center;
@@ -53,7 +46,7 @@ h6 {
 #intro-btn {
     position: relative;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 15%;
 }
 
 .intro-btn {
@@ -66,8 +59,8 @@ h6 {
     cursor: pointer;
     border: 1px solid #00c9df;
     white-space: nowrap;
-    padding: 8px 28px;
-    font-size: 18px;
+    padding: 4px 16px;
+    font-size: 16px;
     line-height: 1.825;
     border-radius: 4px;
     -webkit-user-select: none;
@@ -97,8 +90,8 @@ h6 {
 }
 
 #introductions .row {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     display: table-cell;
     vertical-align: middle;
 }
@@ -126,22 +119,13 @@ h6 {
     }
 }
 
-.network-name {
-    text-transform: uppercase;
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: 2px;
-}
-
 .content-section-a {
-    padding: 50px 0;
 }
 
 .content-section-b {
-    padding: 50px 0;
-    border-top: 1px solid #f8f8f8;
-    border-bottom: 1px solid #f8f8f8;
-    background-color: #f8f8f8;
+    border-top: 1px solid #F1F1F1;
+    border-bottom: 1px solid #F1F1F1;
+    background-color: #F1F1F1;
 
 }
 
@@ -149,9 +133,8 @@ h6 {
     margin-bottom: 30px;
 }
 
-
 .banner {
-    padding: 50px 0;
+    padding: 25px 0;
     background-color: #06497D;
     background-size: cover;
     color:#FFFFFF;
@@ -212,60 +195,4 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
-}
-
-.btn-try {
-    margin: 5px 20px;
-    line-height: 20px;
-    vertical-align: middle;
-}
-
-.nav-try {
-    padding: 5px 10px;
-    float: right;
-    margin-right: -15px;
-}
-
-.nav-brand {
-    float: left;
-    max-height: 60px;
-    padding-left: 0;
-    padding-right: 2em;
-}
-
-#logo {
-    max-height: 60px;
-    padding: .8em 0;
-}
-
-.btn{
-    margin: 4px;
-}
-
-.btn-sky {
-    color: #fff;
-    background-color: #428BCA;
-    border-bottom:3px solid #3b71a9;
-}
-
-.btn-sky:hover,.btn-sky.active:focus, .btn-sky:focus, .open>.dropdown-toggle.btn-sky {
-    color: #fff;
-    background-color: #29b6d8;
-    border-bottom:3px solid #2192ad;
-    outline: none;
-}
-
-.btn-sky:active, .btn-sky.active {
-    color: #fff;
-    background-color: #0a97b9;
-    border-top:3px solid #087994;
-    outline-offset: none;
-    margin-top: 2px;
-}
-
-.btn:focus,
-.btn:active:focus,
-.btn.active:focus {
-    outline: none;
-    outline-offset: 0px;
 }

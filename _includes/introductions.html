@@ -1,21 +1,20 @@
 <section id="introductions">
+	<br/>
+	<br/>
     <!-- Page Content -->
     {% for post in site.posts reversed %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
-
         <div class="container">
-
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
                     <div class="clearfix"></div>
-                    <br>
-                    <br>
-                    <br>
+                    <br/>
+                    <br/>
+                    <br/>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <h4 class="section-subheading"> {{ post.description }}</h4>
-
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -24,25 +23,18 @@
             </div>
 
         </div>
-        <!-- /.container -->
-
     </div>
-    <!-- /.content-section-a -->
     {% else %}
-
     <div class="content-section-b">
-
         <div class="container">
-
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <div class="clearfix"></div>
-                    <br>
-                    <br>
-                    <br>
+                    <br/>
+                    <br/>
+                    <br/>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <h4 class="section-subheading"> {{ post.description }}</h4>
-
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -50,9 +42,7 @@
                 </div>
             </div>
         </div>
-        <!-- /.container -->
     </div>
-    <!-- /.content-section-b -->
     {% endif %}
     {% endfor %}
 </section>

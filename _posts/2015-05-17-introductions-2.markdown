@@ -3,9 +3,9 @@ layout: default
 img: automated.png
 category: Introductions
 title: 自动化运维
-description: 帮助运维人员高效运维成千上万台机器
+description: 高效运维成千上万台主机
 ---
 
- * 虚机分组、分类管理
- * 批量执行脚本
- * 统一监控和告警
+ * 定时执行脚本
+ * 批量、定时执行脚本
+ * 告警触发时自动执行脚本
