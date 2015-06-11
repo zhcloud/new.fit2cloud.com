@@ -22,9 +22,8 @@
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
-    border: 1px solid #1d6391;
-    border-bottom: 10px solid #1d6391;
-
+    border: 1px solid #a12f23;
+    border-bottom: 10px solid #a12f23;
 }
 
 .pro {
@@ -36,9 +35,8 @@
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
-    border: 1px solid #a12f23;
-    border-bottom: 10px solid #a12f23;
-
+    border: 1px solid #1d6391;
+    border-bottom: 10px solid #1d6391;
 }
 
 .enterprise {
@@ -50,9 +48,8 @@
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
-    border: 1px solid #1d6391;
-    border-bottom: 10px solid #1d6391;
-
+    border: 1px solid #a12f23;
+    border-bottom: 10px solid #a12f23;
 }
 
 .pricing-table strong {
