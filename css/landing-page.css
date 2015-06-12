@@ -37,7 +37,7 @@ h6 {
     -webkit-background-size: auto;
     -moz-background-size: auto 100%;
     -o-background-size: auto 100%;
-    background-size: auto;    
+    background-size: auto;
 }
 .intro-header {
     min-height:100%;
@@ -251,6 +251,7 @@ p.copyright {
 
 .container .case-item h2 {
     margin-top: 0px;
+    font-size: 24px;
 }
 
 .container .case-item h2 a{
