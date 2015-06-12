@@ -10,7 +10,7 @@
   - "/opt/fit2cloud/zhcloud.github.io/_includes/js.html"
   - "/opt/fit2cloud/zhcloud.github.io/_layouts/default.html"
 "/opt/fit2cloud/zhcloud.github.io/_includes/header.html":
-  mtime: 2015-06-12 23:12:21.835173777 +08:00
+  mtime: 2015-06-12 23:56:06.951106657 +08:00
   deps: []
 "/opt/fit2cloud/zhcloud.github.io/_includes/home.html":
   mtime: 2015-06-11 23:09:20.432319675 +08:00
@@ -19,7 +19,7 @@
   mtime: 2015-06-11 23:09:20.432319675 +08:00
   deps: []
 "/opt/fit2cloud/zhcloud.github.io/_includes/contact.html":
-  mtime: 2015-06-12 22:21:48.963460328 +08:00
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
   deps: []
 "/opt/fit2cloud/zhcloud.github.io/_includes/footer.html":
   mtime: 2015-06-11 23:09:20.432319675 +08:00
@@ -120,7 +120,7 @@
   mtime: 2015-06-11 23:09:20.432319675 +08:00
   deps: []
 "/opt/fit2cloud/zhcloud.github.io/css/landing-page.css":
-  mtime: 2015-06-12 23:05:21.335184529 +08:00
+  mtime: 2015-06-12 23:50:27.879115327 +08:00
   deps: []
 "/opt/fit2cloud/zhcloud.github.io/css/pricing.css":
   mtime: 2015-06-11 23:09:20.432319675 +08:00
@@ -298,4 +298,25 @@
   deps: []
 "/opt/fit2cloud/zhcloud.github.io/js/landing-page.js":
   mtime: 2015-06-11 23:09:20.464319676 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/aliyun.ico":
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/aws.ico":
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/azure.ico":
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/home-bg-3.png":
+  mtime: 2015-06-12 23:55:19.667107866 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/qingcloud.ico":
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/qingyun.ico":
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
+  deps: []
+"/opt/fit2cloud/zhcloud.github.io/img/ucloud.ico":
+  mtime: 2015-06-12 23:13:14.043172442 +08:00
   deps: []
