@@ -119,14 +119,18 @@ h6 {
     }
 }
 
-.content-section-a {
+.content-section-a .lead ul li{
+    list-style-image: url("/img/li_selected_bullet_take_actions.gif");
+}
+
+.content-section-b .lead ul li{
+    list-style-image: url("/img/li_selected_bullet_take_actions.gif");
 }
 
 .content-section-b {
     border-top: 1px solid #F1F1F1;
     border-bottom: 1px solid #F1F1F1;
     background-color: #F1F1F1;
-
 }
 
 .section-heading {
