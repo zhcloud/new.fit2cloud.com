@@ -33,7 +33,7 @@ h6 {
     height:100%;
     text-align: center;
     color: #06497D;
-    background: url(../img/home-bg-3.png) no-repeat center center;
+    background: url(../img/home-bg-3.png) no-repeat center 40px;
     -webkit-background-size: auto;
     -moz-background-size: auto 100%;
     -o-background-size: auto 100%;
@@ -46,7 +46,7 @@ h6 {
 #intro-btn {
     position: relative;
     text-align: center;
-    padding-top: 15%;
+    padding-top: 180px;
 }
 
 .intro-btn {
@@ -134,8 +134,9 @@ h6 {
 }
 
 .banner {
-    padding-top: 15px;
-    background-color: #002540;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #00355D;
     background-size: cover;
     color:#FFFFFF;
 }
