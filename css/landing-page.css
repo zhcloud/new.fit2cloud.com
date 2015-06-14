@@ -175,8 +175,21 @@ h6 {
 }
 
 @media(max-width:767px) {
-    .navbar-header.page-scroll {
-           float: left;
+    .navbar-toggle {
+        margin-top: -47px;
+    }
+    .nav-try,#intro-btn{
+        display: none;
+    }
+    .home{
+        height:100%;
+        text-align: center;
+        color: #06497D;
+        background: url(../img/home-bg-4.png) no-repeat center center;
+        -webkit-background-size: auto;
+        -moz-background-size: auto 100%;
+        -o-background-size: auto 100%;
+        background-size: contain;
     }
     .banner h2 {
         margin: 0;
@@ -285,3 +298,5 @@ p.copyright {
     text-indent: 0!important;
     font-weight: 300;
 }
+
+

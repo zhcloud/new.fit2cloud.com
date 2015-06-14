@@ -157,7 +157,8 @@
 }
 
 .cell {
-    padding: 6px 12px;
+    text-align: left;
+    padding: 6px 6px 6px 30px;
     display: table-cell;
 }
 @media screen and (max-width: 580px) {
@@ -173,4 +174,15 @@
 #features>.table>.row>.cell>strong{
     font-size: 18px;
     font-weight: 900;
+}
+
+#features {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    min-height: 500px;
+}
+
+#features h3 {
+    padding-bottom: 25px;
 }
