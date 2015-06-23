@@ -220,6 +220,11 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+
+    .case-tab .case-item > .col-md-3{
+        padding-bottom: 12px;
+    }
+
 }
 
 footer {
@@ -254,7 +259,7 @@ p.copyright {
 
 .case-tab .case-item {
     border-top: solid 1px #f0f0ff;
-    height: 210px;
+    @media(min-width:767px)height: 210px;
     padding-top: 30px;
     padding-bottom: 30px
 }
@@ -262,6 +267,7 @@ p.copyright {
 .case-tab .case-item:first-child {
     border-top: none;
     margin-top: 40px
+
 }
 
 .container a.case-logo {
