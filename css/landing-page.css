@@ -43,6 +43,14 @@ h6 {
     min-height:100%;
 }
 
+.intro-text{
+    
+    margin-bottom: 25px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+}
 #intro-btn {
     position: relative;
     text-align: center;
@@ -181,15 +189,18 @@ h6 {
     .nav-try,#intro-btn{
         display: none;
     }
+    .home-wrapper{
+        background-color: #043e6c;
+    }
     .home{
         height:100%;
         text-align: center;
         color: #06497D;
-        background: url(../img/home-bg-4.png) no-repeat center center;
-        -webkit-background-size: auto;
-        -moz-background-size: auto 100%;
-        -o-background-size: auto 100%;
-        background-size: contain;
+        background: url(../img/home-bg-5.png) no-repeat center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
     .banner h2 {
         margin: 0;
