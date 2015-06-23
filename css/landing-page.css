@@ -225,6 +225,14 @@ h6 {
         padding-bottom: 12px;
     }
 
+    #case-item-id {
+        border-top: solid 1px #f0f0ff;
+        height: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px
+    }
+
+
 }
 
 footer {
@@ -259,10 +267,12 @@ p.copyright {
 
 .case-tab .case-item {
     border-top: solid 1px #f0f0ff;
-    @media(min-width:767px)height: 210px;
+    height: 210px;
     padding-top: 30px;
     padding-bottom: 30px
 }
+
+
 
 .case-tab .case-item:first-child {
     border-top: none;
