@@ -329,4 +329,59 @@ p.copyright {
     font-weight: 300;
 }
 
-
+/* dropdown menu*/
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    margin-top: 3px;
+    right: 20px;
+    background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+    font-size:14px;
+}
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0;
+}
+#login-dp .social-buttons a{
+    width: 97%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-github {
+    color: #fff;
+    background-color:#444444;
+}
+.btn-github:hover{
+    color: #fff;
+    background-color:#000;
+}
+.btn-aliyun {
+    color: #fff;
+    background-color:#FFAE00;
+}
+.btn-aliyun:hover{
+    color: #fff;
+    background-color:#F89828;
+}
+#login-dp .bottom a:hover {
+    text-decoration:none;
+}
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}
