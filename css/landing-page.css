@@ -35,8 +35,8 @@ h6 {
     color: #06497D;
     background: url(../img/home-bg-3.png) no-repeat center 40px;
     -webkit-background-size: auto;
-    -moz-background-size: auto 100%;
-    -o-background-size: auto 100%;
+    -moz-background-size: auto;
+    -o-background-size: auto;
     background-size: auto;
 }
 .intro-header {
@@ -53,6 +53,7 @@ h6 {
 }
 
 .intro-btn {
+    outline-style: none;
     position: relative;
     display: inline-block;
     margin-bottom: 0;
@@ -77,6 +78,7 @@ h6 {
 .intro-btn:hover,
 .intro-btn:active,
 .intro-btn:focus {
+    outline-style: none;
     color: #00eaff;
     background-color: transparent;
     border-color: #00eaff;
