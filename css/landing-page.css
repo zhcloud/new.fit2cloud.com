@@ -387,3 +387,48 @@ p.copyright {
         border-top:0 none;
     }
 }
+
+/* User story Section*/
+.carousel-indicators li {
+    border:1px solid #002540;
+}
+
+.carousel-indicators li.active {
+    background: #002540;
+}
+#userstory {
+    background: #F1F1F1;
+}
+
+.carousel-caption {
+    color: #000;
+    text-shadow: none;
+    bottom: 50px;
+}
+
+.carousel-caption p {
+    color: #002540;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.carousel-caption h4{
+    margin-top: 40px;
+    font-weight: 500;
+}
+
+.carousel-caption h5 {
+    font-style: italic;
+    font-weight: 300;
+}
+#userstory .item {
+    text-align: center;
+    background: #F1F1F1;
+    height: 300px !important;
+}
+
+.carousel-control  {
+    z-index: 20;
+    width: 10%;
+    opacity: .3;
+}
