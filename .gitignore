@@ -1,4 +1,5 @@
 _site
 .project
-.idea/workspace.xml
+.idea/
 .jekyll-metadata
+*.iml
