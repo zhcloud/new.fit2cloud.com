@@ -23,21 +23,22 @@ h6 {
     font-weight: 700;
 }
 
-.home-wrapper {
+.home{
     background-color: #043e6c;
     height:100%;
     width:100%;
     text-align: center;
 }
-.home{
+.home-wrapper {
     height:100%;
     text-align: center;
     color: #06497D;
-    background: url(../img/home-bg-3.png) no-repeat center 40px;
-    -webkit-background-size: auto;
-    -moz-background-size: auto;
-    -o-background-size: auto;
-    background-size: auto;
+    background: url(../img/home-bg-6.png) no-repeat center 40px;
+    text-indent:-9999px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 .intro-header {
     min-height:100%;
@@ -403,7 +404,7 @@ p.copyright {
 .carousel-caption {
     color: #000;
     text-shadow: none;
-    bottom: 50px;
+    bottom: 40px;
 }
 
 .carousel-caption p {
