@@ -3,9 +3,9 @@ layout: default
 img: selfservice.png
 category: Introductions
 title: 跨云租户交付
-description: 灵活选择云供应商，满足不同租户需求
+description: 灵活选择云供应商，满足租户不同需求
 ---
 
- * 插件方式支持多个云供应商，可为不同租户选择不同供应商
+ * 插件方式支持多个云供应商，可为不同租户选不同供应商
  * 提供统一界面及流程管理不同云供应商上的租户
  * 支持跨云供应商的租户迁移，避免被一个云供应商锁定
