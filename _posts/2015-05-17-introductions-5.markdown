@@ -2,11 +2,10 @@
 layout: default
 img: continuous.png
 category: Introductions
-title: 持续部署和交付
-description: DevOps协作平台，加快云上业务创新
+title: 租户运营中心
+description: 集成的一站式租户运营中心
 ---
 
- * 对接常见代码构建工具，实现统一的Artifacts管理
- * 兼容AWS CodeDeploy规范，支持不同部署策略
- * 可视化整个部署过程，实时展示部署进度及结果
- * 统一开发、测试、准生产和生产环境的部署和管理
+ * 集成租户运营中心，提供标准的租户运营服务模块
+ * 对接租户运维管理平台，实现一体化运维及运营
+ * 提供定制化开发，满足客户自身独特需求

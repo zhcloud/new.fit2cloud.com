@@ -2,11 +2,10 @@
 layout: default
 img: hybridclouds.png
 category: Introductions
-title: 混合云管理
-description: 统一管理不同来源的主机
+title: 租户部署
+description: 一键部署租户实例
 ---
 
- * 支持导入各种公有云主机、私有云主机及物理机
- * 提供多种导入方式（自动、手动、批量导入）
- * 按应用角度分集群、分组管理所有导入主机
- * 集成云API，支持动态创建并导入，支持自动伸缩
+ * 支持镜像、脚本或者两者结合的部署方法
+ * 支持标准化部署模板及管理流程
+ * 支持自助式触发部署逻辑，无需人工干预

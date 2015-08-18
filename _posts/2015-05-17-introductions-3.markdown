@@ -2,12 +2,12 @@
 layout: default
 img: monitor-alert.png
 category: Introductions
-title: 监控告警
-description: 端到端的监控，实现快速反馈
+title: 租户监控告警
+description: 全面监控每一个独立租户
 ---
 
- * 提供虚机、站点、端口监控
- * 支持应用级别的自定义监控
- * 提供集群和虚机组级别的监控数据展示
- * 支持多级别告警定义，告警状态展示
+ * 提供独立租户对应的虚机、站点、端口监控
+ * 支持租户级别的自定义监控及告警
+ * 提供所有租户级别的监控及告警数据展示
+
  
