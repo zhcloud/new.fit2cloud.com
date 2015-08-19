@@ -1,6 +1,6 @@
 ---
 layout: saas
-img: continuous.png
+img: 9-512.new.png
 category: saas
 title: 租户运营中心
 description: 集成的一站式租户运营中心

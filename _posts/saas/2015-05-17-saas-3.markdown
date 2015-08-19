@@ -1,6 +1,6 @@
 ---
 layout: saas
-img: monitor-alert.png
+img: 10-512.new.png
 category: saas
 title: 租户监控告警
 description: 全面监控每一个独立租户

@@ -1,6 +1,6 @@
 ---
 layout: saas
-img: hybridclouds.png
+img: 1-512.new.png
 category: saas
 title: 租户部署
 description: 一键部署租户实例

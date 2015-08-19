@@ -483,3 +483,11 @@ p.copyright {
     width: 10%;
     opacity: .3;
 }
+
+/*Download*/
+.deploy-item {
+    border-top: solid 1px #f0f0ff;
+    height: 210px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

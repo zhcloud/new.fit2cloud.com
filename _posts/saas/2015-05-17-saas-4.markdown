@@ -1,6 +1,6 @@
 ---
 layout: saas
-img: selfservice.png
+img: 3-512.new.png
 category: saas
 title: 跨云租户交付
 description: 灵活选择云供应商，满足租户不同需求
