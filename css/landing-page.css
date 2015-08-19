@@ -33,7 +33,7 @@ h6 {
     height: 100%;
     text-align: center;
     color: #06497D;
-    background: url(../img/saas/wall-1.jpg) no-repeat center 40px;
+    background: url(../img/saas/wall-1.png) no-repeat center 40px;
     text-indent: -9999px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -66,7 +66,29 @@ h6 {
     text-align: center;
     padding-top: 180px;
 }
-
+.intro-btn-login {
+    outline-style: none;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 300;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #00c9df;
+    white-space: nowrap;
+    padding: 2px 16px;
+    font-size: 16px;
+    line-height: 1.825;
+    /*border-radius: 2px;*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: #00c9df;
+    color: #FFF;
+}
 .intro-btn {
     outline-style: none;
     position: relative;
@@ -78,7 +100,7 @@ h6 {
     cursor: pointer;
     border: 1px solid #00c9df;
     white-space: nowrap;
-    padding: 4px 16px;
+    padding: 2px 16px;
     font-size: 16px;
     line-height: 1.825;
     /*border-radius: 2px;*/
@@ -88,6 +110,20 @@ h6 {
     user-select: none;
     color: #00c9df;
     background-color: transparent;
+}
+
+.intro-btn-login:hover,
+.intro-btn-login:active,
+.intro-btn-login:focus {
+    outline-style: none;
+    color: #FFF;
+    background-color: #00b5cc;
+    border-color: #00b5cc;
+    text-decoration: none;
+    box-shadow: 0 2px 0 transparent;
+    -webkit-transition: color 0.2s ease-in-out,background-color 0.2s ease-in-out,top 0.1s linear,box-shadow 0.1s linear, border-color 0.2s linear;
+    -o-transition: color 0.2s ease-in-out,background-color 0.2s ease-in-out,top 0.1s linear,box-shadow 0.1s linear,border-color 0.2s linear;
+    transition: color 0.2s ease-in-out,background-color 0.2s ease-in-out,top 0.1s linear,box-shadow 0.1s linear,border-color 0.2s linear;
 }
 
 .intro-btn:hover,
