@@ -172,19 +172,23 @@
                     {% if feature.enterprise == "yes" %}
                     <i class="fa fa-check"></i>
                     {% else %}
-                    <i class="fa fa-times"></i>
+                        {% if feature.enterprise == "no" %}
+                        <i class="fa fa-times"></i>
+                        {% else %}
+                        <a href="#" style="user-focus-pointer: none" data-toggle="tooltip" data-placement="top" title="{{ feature.enterprise }}"><i class="fa fa-gear"></i></a>
+                        {% endif %}
                     {% endif %}
                 {% endif %}
             </div>
         </div>
         {% endfor %}
     </div>
-
 </div>
 
 {% include js.html %}
 {% include contact.html %}
 {% include footer.html %}
 </body>
+<script>$(function () { $("[data-toggle='tooltip']").tooltip(); });</script>
 
 </html>

@@ -12,7 +12,7 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_3
-  name: 持亚马逊AWS云
+  name: 支持亚马逊AWS
   free: "yes"
   standard: "yes"
   pro: "yes"
@@ -45,12 +45,42 @@
   name: 支持Openstack私有云
   free: "no"
   standard: "no"
-  pro: "yes"
-  enterprise: "yes"
+  pro: "no"
+  enterprise: "可定制开发"
 - id: feature_12
   name: 支持vSphere私有云
   free: "no"
   standard: "no"
+  pro: "no"
+  enterprise: "可定制开发"
+- id: feature_13
+  name: 其他私有云
+  free: "no"
+  standard: "no"
+  pro: "no"
+  enterprise: "可定制开发"
+- id: feature_14
+  name: CentOs/Redhat 5/6/7 (agent)
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_15
+  name: Ubuntu 12.04/14.04 (agent)
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_16
+  name: Suse 11/12 (agent)
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_9
+  name: Debian 6/7 (agent)
+  free: "yes"
+  standard: "yes"
   pro: "yes"
   enterprise: "yes"
 
