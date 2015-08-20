@@ -6,75 +6,51 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_2
-  name: 虚机分集群、分虚机组管理
+  name: 支持腾讯云
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_3
-  name: 导入阿里云虚机
+  name: 支持阿里云
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_4
-  name: 导入其他公有云主机
+  name: 支持亚马逊AWS云
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_5
-  name: 导入私有云主机和物理机
+  name: 支持UCloud
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_6
-  name: Redhat/CentOS 5/6/7支持 (Agent)
+  name: 支持青云QingCloud
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_7
-  name: Ubuntu 12.04/14.04支持 (Agent)
+  name: 支持物理机
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_8
-  name: Debian 6/7支持 (Agent)
-  free: "yes"
-  standard: "yes"
+  name: 支持Openstack私有云
+  free: "no"
+  standard: "no"
   pro: "yes"
   enterprise: "yes"
 - id: feature_12
-  name: 阿里云安全组管理
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_13
-  name: 阿里云RDS管理
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_14
-  name: 阿里云SLB管理
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_15
-  name: 阿里云OSS管理
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_16
-  name: 阿里云安全组管理
-  free: "yes"
-  standard: "yes"
+  name: 支持vSphere私有云
+  free: "no"
+  standard: "no"
   pro: "yes"
   enterprise: "yes"
 
@@ -123,13 +99,13 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_24
-  name: 虚机组级别的监控展示
+  name: 监控面板
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_25
-  name: 集群级别的监控展示
+  name: 可定制仪表盘
   free: "yes"
   standard: "yes"
   pro: "yes"
@@ -166,44 +142,19 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_32
-  name: 一键创建应用系统所需的所有资源
+  name: 虚机创建模版
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-
 - id: feature_33
-  name: 一键释放应用系统的所有资源
+  name: 自动部署应用
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_34
-  name: 创建阿里云按量虚机
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_36
-  name: 创建、挂载阿里云磁盘
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_37
-  name: 自动注册到SLB
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_38
-  name: 自动添加到RDS白名单
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_39
-  name: 虚机启动后执行特定脚本
+  name: 一键释放资源
   free: "yes"
   standard: "yes"
   pro: "yes"
@@ -221,7 +172,7 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_43
-  category: 持续部署和交付
+  category: DevOps/持续部署
   name:
   free: "yes"
   standard: "yes"
@@ -277,12 +228,6 @@
   enterprise: "yes"
 - id: feature_56
   name: 用户管理
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_57
-  name: 阿里云账户统一管理
   free: "yes"
   standard: "yes"
   pro: "yes"
