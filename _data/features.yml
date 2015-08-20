@@ -6,19 +6,19 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_2
-  name: 支持腾讯云
+  name: 支持阿里云Aliyun
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_3
-  name: 支持阿里云
+  name: 持亚马逊AWS云
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_4
-  name: 支持亚马逊AWS云
+  name: 支持青云QingCloud
   free: "yes"
   standard: "yes"
   pro: "yes"
@@ -30,7 +30,7 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_6
-  name: 支持青云QingCloud
+  name: 支持腾讯云QCloud
   free: "yes"
   standard: "yes"
   pro: "yes"
