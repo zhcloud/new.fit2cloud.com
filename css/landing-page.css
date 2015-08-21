@@ -247,7 +247,7 @@ h6 {
     .navbar-toggle {
         margin-top: -47px;
     }
-    .nav-try,#intro-btn{
+    .aliyun-layout, .login-layout{
         display: none;
     }
     .home-wrapper{
