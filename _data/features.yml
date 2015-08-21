@@ -36,7 +36,7 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_7
-  name: 支持物理机
+  name: 支持物理机及独立虚机
   free: "yes"
   standard: "yes"
   pro: "yes"
