@@ -3,9 +3,9 @@ layout: saas
 img: 1-512.new.png
 category: saas
 title: 租户部署
-description: 一键部署租户实例
+description: 一键部署独立租户实例
 ---
 
  * 支持镜像、脚本或者两者结合的部署方法
  * 支持标准化部署模板及管理流程
- * 支持自助式触发部署逻辑，无需人工干预
+ * 支持自助式部署，无需人工干预
