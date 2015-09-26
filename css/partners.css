@@ -1,4 +1,6 @@
-
+#about-partner .col-sm-3 {
+    width:50%;
+}
 #partner .partner-item {
     right: 0;
     margin: 0 0 15px;
