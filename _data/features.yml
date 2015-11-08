@@ -42,19 +42,19 @@
   pro: "yes"
   enterprise: "yes"
 - id: feature_8
-  name: 支持Openstack私有云
+  name: 支持Openstack
   free: "no"
   standard: "no"
   pro: "no"
-  enterprise: "可定制开发"
+  enterprise: "yes"
 - id: feature_12
-  name: 支持vSphere私有云
+  name: 支持vSphere
   free: "no"
   standard: "no"
   pro: "no"
-  enterprise: "可定制开发"
+  enterprise: "yes"
 - id: feature_13
-  name: 其他私有云
+  name: 其他私有云和虚拟化平台
   free: "no"
   standard: "no"
   pro: "no"
