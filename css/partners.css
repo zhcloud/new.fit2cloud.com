@@ -1,12 +1,12 @@
 #about-partner .col-sm-3 {
     width:50%;
 }
-#partner .partner-item {
-    right: 0;
+.partner .partner-item {
+    left: 8.5%;
     margin: 0 0 15px;
 }
 
-#partner .partner-item .partner-link {
+.partner .partner-item .partner-link {
     display: block;
     position: relative;
     margin: 0 auto;
@@ -23,7 +23,7 @@
     text-decoration: none;
 }
 
-#partner .partner-item .partner-link .caption {
+.partner .partner-item .partner-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -34,11 +34,11 @@
     transition: all ease .5s;
 }
 
-#partner .partner-item .partner-link .caption:hover {
+.partner .partner-item .partner-link .caption:hover {
     opacity: 0.2;
 }
 
-#partner .partner-item .partner-link .caption .caption-content {
+.partner .partner-item .partner-link .caption .caption-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -49,16 +49,16 @@
     color: #fff;
 }
 
-#partner .partner-item .partner-link .caption .caption-content i {
+.partner .partner-item .partner-link .caption .caption-content i {
     margin-top: -12px;
 }
 
-#partner .partner-item .partner-link .caption .caption-content h3,
-#partner .partner-item .partner-link .caption .caption-content h4 {
+.partner .partner-item .partner-link .caption .caption-content h3,
+.partner .partner-item .partner-link .caption .caption-content h4 {
     margin: 0;
 }
 
-#partner * {
+.partner * {
     z-index: 2;
 }
 
@@ -87,11 +87,11 @@ hr.star-primary {
     margin: 0 auto;
 }
 
-#partner a p,
-#partner a p:hover,
-#partner a p:focus,
-#partner a p:active,
-#partner a p.active {
+.partner a p,
+.partner a p:hover,
+.partner a p:focus,
+.partner a p:active,
+.partner a p.active {
     outline: none;
     text-decoration: none;
 }
