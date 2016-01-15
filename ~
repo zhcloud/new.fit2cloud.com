@@ -17,7 +17,7 @@
                 <p><strong>最多可管理50台主机</strong><sup>注1</sup></p>
                 <br/>
                 <p>标准功能</p>
-                <p>定期升级</p>
+                <p>定期在线升级</p>
                 <p>5x8 电话、邮件、远程</p>
                 <p>每月50条免费告警短信</p>
             </div>
@@ -39,8 +39,8 @@
                 <p><strong>最多可管理200台主机</strong></p>
                 <br/>
                 <p>标准功能</p>
-                <p>定期升级</p>
-                <p>5x8 电话、邮件、远程</p>
+                <p>定期在线升级</p>
+                <p>7x24 电话、邮件、远程</p>
                 <p>每月200条告警短信</p>
             </div>
             <div style="min-height: 40px" class="pricing-table-features">
@@ -61,8 +61,8 @@
                 <p><strong>最多可管理500台主机</strong></p>
                 <br/>
                 <p>标准功能</p>
-                <p>定期升级</p>
-                <p>5x8 电话、邮件、远程</p>
+                <p>定期在线升级</p>
+                <p>7x24 电话、邮件、远程</p>
                 <p>每月500条告警短信</p>
             </div>
             <div style="min-height: 40px" class="pricing-table-features">
@@ -77,16 +77,15 @@
 
         <div class="span3 free">
             <div class="pricing-table-header-tiny">
-                <h3> ￥ 999/台 + 平台费</h3>
+                <h3>￥ 999/台 + 平台费</h3>
                 <h3>企业版</h3>
             </div>
             <div class="pricing-table-features">
                 <p><strong>无主机数量限制</strong><sup>注4</sup></p>
                 <br/>
                 <p>标准功能 + 部分可定制</p>
-                <p>按需升级</p>
-                <p>7x24 电话、邮件、远程</p>
-		<p style="color:#1d6391; font-weight:900">现场支持</p>
+                <p>按需在线升级</p>
+                <p>7x24 电话、邮件、远程、</p><p style="color:#1d6391; font-weight:900">现场支持</p>
             </div>
             <div style="min-height: 40px" class="pricing-table-features">
                 <p><strong>部署方式</strong></p>
@@ -99,10 +98,10 @@
         </div>
     </div>
     <div style="text-align: left; font-weight: 300; padding-left: 20px;" class="row">
-        <p>注1: FIT2CLOUD 在被管理机器上面会安装 Agent，安装 Agent 后的机器即为一台主机；</p>
-        <p>注2: SaaS 即<a href="https://console.fit2cloud.com">在线版服务</a>，由 FIT2CLOUD 运营的多租户 SaaS 服务；
-        <p>注3: 本地化部署即指 FIT2CLOUD 部署在用户自己的环境下；</p>
-        <p>注4: 200台主机以下，平台费20万；200台 - 500台，平台费30万；500台以上，平台费50万。 </p>
+        <p>注1: FIT2CLOUD 在被管理主机上面会安装Agent，主机可能是物理机，也可能是虚机；</p>
+        <p>注2: SaaS即<a href="https://console.fit2cloud.com">在线版服务</a>，由FIT2CLOUD运营的多租户SaaS服务；
+        <p>注3: 本地化部署即FIT2CLOUD部署在用户在自己的环境下；</p>
+        <p>注4: 200台 主机以下，平台费 20 万；200台 - 500台，平台费 30 万；500台 以上，平台费 50 万。 </p>
     </div>
 </div>
 
