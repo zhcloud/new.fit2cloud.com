@@ -44,14 +44,14 @@
 - id: feature_8
   name: 支持Openstack
   free: "no"
-  standard: "no"
-  pro: "no"
+  standard: "yes"
+  pro: "yes"
   enterprise: "yes"
 - id: feature_12
   name: 支持vSphere
   free: "no"
-  standard: "no"
-  pro: "no"
+  standard: "yes"
+  pro: "yes"
   enterprise: "yes"
 - id: feature_13
   name: 其他私有云和虚拟化平台
@@ -79,6 +79,12 @@
   enterprise: "yes"
 - id: feature_9
   name: Debian 6/7 (agent)
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_10
+  name: Windows (agent)
   free: "yes"
   standard: "yes"
   pro: "yes"
