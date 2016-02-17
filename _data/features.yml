@@ -93,8 +93,8 @@
 - id: feature_11
   name: AIX 5/6/7 (agent)
   free: "no"
-  standard: "no"
-  pro: "no"
+  standard: "yes"
+  pro: "yes"
   enterprise: "yes"
 
 - id: feature_17
