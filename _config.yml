@@ -4,11 +4,11 @@
 
 url: http://fit2cloud.com
 headtitle: FIT2CLOUD
-title: FIT2CLOUD混合云管理及DevOps协作平台
+title: FIT2CLOUD - 混合云管理及DevOps协作平台
 email: support@fit2cloud.com
 author: fit2cloud
-description: "FIT2CLOUD是一个建立在IaaS之上的一站式应用交付及运维管理平台，涵盖混合云管理(跨公有云、私有云、传统IDC托管机器等)、自动化运维、统一的监控告警、自服务IT和持续交付"
-keywords: "阿里云,微软Azure,亚马逊AWS,青云QingCloud,混合云管理,自动化运维,持续部署,DevOps,应用生命周期管理,全栈自动化,云管理平台"
+description: "FIT2CLOUD是一个建立在IaaS之上的混合云管理及DevOps协作平台，涵盖混合云管理(公有云、私有云、虚拟化平台和物理机)、自动化运维、统一的监控告警、自服务IT和持续交付"
+keywords: "阿里云, 微软Azure, 亚马逊AWS, 青云QingCloud, Openstack, VMware, 混合云管理, 自动化运维, 持续部署, DevOps, 应用生命周期管理, 全栈自动化, 云管理平台"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
