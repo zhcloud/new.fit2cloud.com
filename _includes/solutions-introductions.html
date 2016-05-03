@@ -1,0 +1,48 @@
+<section id="solutions-introductions">
+	<br/>
+	<br/>
+    <!-- Page Content -->
+    {% for post in site.categories.solutions reversed %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="content-section-a">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <div class="clearfix"></div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h4 class="section-subheading"> {{ post.description }}</h4>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" style="max-width:280px;padding-top: 40px; padding-bottom: 20px" src="/img/solutions/{{ post.img }}" alt="">
+                </div>
+            </div>
+
+        </div>
+    </div>
+    {% else %}
+    <div class="content-section-b">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h4 class="section-subheading"> {{ post.description }}</h4>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" style="max-width:280px; padding-top: 40px; padding-bottom: 20px" src="/img/solutions/{{ post.img }}" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</section>
