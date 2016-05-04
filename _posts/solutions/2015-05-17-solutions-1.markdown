@@ -1,7 +1,7 @@
 ---
 layout: saas
 img: 1-512.new.png
-category: saas
+category: solutions
 title: 租户部署
 description: 一键部署独立租户实例
 ---

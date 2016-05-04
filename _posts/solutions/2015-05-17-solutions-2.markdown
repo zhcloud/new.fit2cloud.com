@@ -1,7 +1,7 @@
 ---
 layout: saas
 img: 8-512.new.png
-category: saas
+category: solutions
 title: 租户运维
 description: 高效运维成千上万独立租户
 ---
