@@ -2,7 +2,7 @@
 layout: saas
 img: 10-512.new.png
 category: solutions
-title: 持续构建与持续部署（CI/CD）
+title: 持续集成与持续部署（CI/CD）
 description: 打通从代码到服务的通道
 ---
  
