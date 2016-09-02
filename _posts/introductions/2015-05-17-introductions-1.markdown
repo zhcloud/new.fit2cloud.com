@@ -2,11 +2,11 @@
 layout: default
 img: hybridclouds.png
 category: Introductions
-title: 混合云管理
-description: 统一管理和使用不同类型的基础设施
+title: 管好云资源
+description: FIT2CLOUD 混合云管理平台
 ---
 
  * 支持公有云、私有云、虚拟化平台及物理机
- * 支持费用管理和容量管理
- * 按应用角度分集群、分组管理各种主机
- * 深度集成云API，支持自动伸缩
+ * 异构、异地资源池的统一管理（容量管理）
+ * 以服务目录方式对外统一交付支援
+ * 提供详细的报表统计

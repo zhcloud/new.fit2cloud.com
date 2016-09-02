@@ -2,11 +2,11 @@
 layout: default
 img: automated.png
 category: Introductions
-title: 自动化运维
-description: 高效运维成千上万台主机
+title: 控好云成本
+description: FIT2CLOUD 云费用管理平台
 ---
 
- * 对集群、虚机组或者虚机批量执行脚本
- * 多种方式（按需、定时、告警触发）执行脚本
- * 集中查看脚本执行状态、结果及历史记录
- * 统一管理各种运维脚本，方便运维各环节复用
+ * 公有云账单费用的可视化分析
+ * 支持云资源的使用情况分析
+ * 提供详细的云费用优化建议和预测
+ * 支持智能标签技术
