@@ -1,6 +1,6 @@
 ---
 layout: default
-img:automated.png
+img: automated.png
 category: Introductions
 title: 用好云服务
 description: FIT2CLOUD DevOps协作平台
