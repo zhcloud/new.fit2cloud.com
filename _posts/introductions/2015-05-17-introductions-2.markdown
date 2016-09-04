@@ -1,6 +1,6 @@
 ---
 layout: default
-img: automated.png
+img: monitor-alert.png
 category: Introductions
 title: 控好云成本
 description: FIT2CLOUD 云费用管理平台
