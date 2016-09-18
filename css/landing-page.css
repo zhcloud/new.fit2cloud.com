@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body,
 html {
     width: 100%;
@@ -22,31 +16,69 @@ h6 {
     font-weight: 700;
 }
 
+h2 {
+    font-weight: 600;
+    font-size: 25px;
+}
+h4 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
 .home{
     background-color: #043e6c;
     height:100%;
     width:100%;
     text-align: center;
 }
-.saas-home-wrapper {
-    height: 100%;
+
+.home-wrapper {
+    height:100%;
     text-align: center;
     color: #06497D;
-    background: url(../img/saas/wall-1.jpg) no-repeat center 40px;
+    background: url(../img/bg.jpg) no-repeat center 40px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-.home-wrapper {
-    height:100%;
+.devops-home-wrapper {
+    height: 100%;
     text-align: center;
     color: #06497D;
-    background: url(../img/home-bg-6.png) no-repeat center 40px;
+    background: url(../img/products/devops-bg.jpg) no-repeat center 40px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+.hybridclouds-home-wrapper {
+    height: 100%;
+    text-align: center;
+    color: #06497D;
+    background: url(../img/products/hybridclouds-bg.jpg) no-repeat center 40px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.costanalytics-home-wrapper {
+    height: 100%;
+    text-align: center;
+    color: #06497D;
+    background: url(../img/products/costanalytics-bg.jpg) no-repeat center 40px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.product-intro-header {
+    padding-top: 30%;
+    min-height:100%;
+    font-weight: normal;
+    font-size: 40px;
+    color: #ffffff;
 }
 .intro-header {
     min-height:100%;
@@ -71,11 +103,16 @@ h6 {
 
 .intro-text {
     font-size: 50px;
-    font-weight:bold;
+    font-weight: 500;
     text-align:center;
     color: white;
-    margin-right: 60px;
-    margin-top: 15%;
+    margin-top: 12%;
+}
+.intro-desc {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight:200;
+    color: #ffffff;
 }
 #intro-btn {
     position: relative;
@@ -508,4 +545,55 @@ p.copyright {
     height: 210px;
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    min-width: 350px;
+    border-radius: 3px;
+    border: 1px solid #d0d0d0;
+    padding: 5px 5px 10px 10px;
+}
+#more > .dropdown-menu {
+    padding: 5px 5px 10px 10px;
+    min-width: 200px;
+    border-radius: 3px;
+    border: 1px solid #d0d0d0;
+}
+.media-container {
+    padding: 25px 5px 5px;
+}
+
+.media-container a:hover {
+    text-decoration: none;
+}
+.media-left {
+    position: relative;
+    top: -8px;
+}
+.media-left img {
+    width: 60px;
+    height: 60px;
+}
+
+.media-body h5 {
+    color: #353535;
+    font-weight: 500;
+}
+
+.media-body h6 {
+    color: #7d7d7d;
+    font-weight:300;
+}
+
+.navbar {
+    -webkit-transition: all 0.6s ease-out;
+    -moz-transition: all 0.6s ease-out;
+    -o-transition: all 0.6s ease-out;
+    -ms-transition: all 0.6s ease-out;
+    transition: all 0.6s ease-out;
+}
+
+.navbar.scrolled {
+    background: rgb(68, 68, 68); //IE
+    background: rgba(0, 0, 0, 0.78); //NON-IE
 }
