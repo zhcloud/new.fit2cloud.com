@@ -180,6 +180,11 @@ h4 {
     width:84px;
 }
 
+@media (min-width: 1600px) {
+    .navbar-right .login-dropdown-menu {
+        right: 123px;
+    }
+}
 .login-dropdown-menu {
     position: absolute;
     top: 42px;
@@ -188,7 +193,7 @@ h4 {
     float: left;
     min-width: 150px;
     padding: 10px 10px;
-    margin: 5px 36px 5px 5px;
+    margin: 5px 60px 5px 5px;
     font-size: 14px;
     text-align: left;
     list-style: none;
