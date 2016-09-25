@@ -1,0 +1,19 @@
+- id: feature_1
+  category: 混合云管理
+  name:
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_2
+  name: 支持阿里云Aliyun
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_3
+  name: 支持亚马逊AWS
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"

@@ -5,32 +5,10 @@
 <body>
 <div id="pricing" class="container content-section text-center" style="padding-top: 60px; margin-top: 30px">
     <div class="row">
-        <h3>FIT2CLOUD 报价</h3>
+        <h3>报价：FIT2CLOUD 云管理平台</h3>
     </div>
     <div class="row">
-        <div class="span3 free">
-            <div class="pricing-table-header-tiny">
-                <h3>￥ 0/月</h3>
-                <h3>免费版</h3>
-            </div>
-            <div class="pricing-table-features">
-                <p><strong>最多可管理50台主机</strong><sup>注1</sup></p>
-                <br/>
-                <p>标准功能</p>
-                <p>定期升级</p>
-                <p>5x8 电话、邮件、远程</p>
-                <p>每月50条免费告警短信</p>
-            </div>
-            <div style="min-height: 40px" class="pricing-table-features">
-                <p><strong>部署方式</strong></p>
-                <br/>
-                <p>SaaS<sup>注2</sup></p>
-            </div>
-            <div class="pricing-table-signup-tiny">
-                <p><a href="https://console.fit2cloud.com/login">免费试用</a></p>
-            </div>
-        </div>
-        <div class="span3 free">
+        <div class="span4 free">
             <div class="pricing-table-header-tiny">
                 <h3>￥ 4999/月</h3>
                 <h3>标准版</h3>
@@ -52,7 +30,7 @@
                 <p><a href="https://console.fit2cloud.com/login">免费试用</a></p>
             </div>
         </div>
-        <div class="span3 free">
+        <div class="span4 free">
             <div class="pricing-table-header-tiny">
                 <h3>￥ 9999/月</h3>
                 <h3>专业版</h3>
@@ -75,7 +53,7 @@
             </div>
         </div>
 
-        <div class="span3 free">
+        <div class="span4 free">
             <div class="pricing-table-header-tiny">
                 <h3> ￥ 1000/台 + 平台费</h3>
                 <h3>企业版</h3>
@@ -86,7 +64,7 @@
                 <p>标准功能 + 部分可定制</p>
                 <p>按需升级</p>
                 <p>7x24 电话、邮件、远程</p>
-		<p style="color:#1d6391; font-weight:900">现场支持</p>
+		        <p style="color:#1d6391; font-weight:900">现场支持</p>
             </div>
             <div style="min-height: 40px" class="pricing-table-features">
                 <p><strong>部署方式</strong></p>
@@ -129,7 +107,7 @@
             </div>
         </div>
 
-        {% for feature in site.data.features %}
+        {% for feature in site.data.costanalytics-features %}
         <div class="row">
             <div class="cell">
                 {% if feature.category %}

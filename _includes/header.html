@@ -6,7 +6,7 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.keywords}}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="icon" href="../img/favicon.bmp" type="image/x-icon">
+    <link rel="icon" href="/img/favicon.bmp" type="image/x-icon">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -55,7 +55,7 @@
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">产品
                         <b class="caret"></b>
                     </a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu" style="min-width: 350px;">
                         <li>
                             <div class="row">
                                 <div class="media-container">
@@ -100,10 +100,16 @@
                 <li>
                     <a class="page-scroll" href="/customers">客户案例</a>
                 </li>
-	        <li>
-                    <a class="page-scroll" href="/pricing">价格</a>
+                <li class="more dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">价格
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/hc-devops-pricing" target="_blank">混合云管理及 DevOps</a></li>
+                        <li><a href="/costanalytics-pricing" target="_blank">云费用管理</a></li>
+                    </ul>
                 </li>
-                <li id="more" class="dropdown">
+                <li class="more dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">更多
                         <b class="caret"></b>
                     </a>
@@ -123,7 +129,11 @@
                     </span>
                 </span> -->
                 <span class="login-layout">
-                    <a class="intro-btn" style="font-size: 15px; margin-top:4px" href="https://console.fit2cloud.com/login">登录</a>
+                    <a class="intro-btn dropdown-toggle" style="font-size: 15px; margin-top:4px" data-toggle="dropdown">登录<span class="caret"></span></a>
+                    <ul class="dropdown-menu login-dropdown-menu" role="menu">
+                        <li><a href="http://costanalytics.fit2cloud.com">云费用管理</a></li>
+                        <li><a href="https://console.fit2cloud.com/login">混合云及DevOps协作</a></li>
+                    </ul>
                     <a class="intro-btn-login" style="font-size: 15px; margin-top:4px" href="https://console.fit2cloud.com/register">注册</a>
                 </span>
             </ul>
