@@ -1,6 +1,6 @@
 ---
 layout: default
-img: hybridclouds.png
+img: products/hybrid-01.png
 category: Introductions
 title: 管好云资源
 description: FIT2CLOUD 混合云管理平台

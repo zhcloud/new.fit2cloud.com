@@ -1,9 +1,9 @@
 ---
 layout: default
-img: costanalytics.png
+img: cost-03.png
 category: costanalytics
 title: 费用分摊、优化和预测
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 内置常用优化规则，节约费用10%-40%；

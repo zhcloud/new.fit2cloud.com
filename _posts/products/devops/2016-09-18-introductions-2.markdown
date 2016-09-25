@@ -1,9 +1,9 @@
 ---
 layout: default
-img: devops.png
+img: devops-02.png
 category: devops
 title: 提供端到端的DevOps工具链
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 可以对接常用构建工具和Artifact仓库；

@@ -1,9 +1,9 @@
 ---
 layout: default
-img: hybridclouds.png
+img: hybrid-02.png
 category: hybridclouds
 title: 容量管理
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 统一监控和管理各个云下面的云主机；

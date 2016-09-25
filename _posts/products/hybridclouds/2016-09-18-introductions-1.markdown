@@ -1,9 +1,9 @@
 ---
 layout: default
-img: hybridclouds.png
+img: hybrid-01.png
 category: hybridclouds
 title: 支持公有云、私有云和虚拟化平台
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 公有云：亚马逊AWS、微软Azure、阿里云、腾讯云等；

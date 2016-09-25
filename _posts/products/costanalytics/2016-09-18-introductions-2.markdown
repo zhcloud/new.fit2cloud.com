@@ -1,9 +1,9 @@
 ---
 layout: default
-img: costanalytics.png
+img: cost-02.png
 category: costanalytics
 title: 资源使用率量分析和可视化
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 自动同步云上资源和监控数据；

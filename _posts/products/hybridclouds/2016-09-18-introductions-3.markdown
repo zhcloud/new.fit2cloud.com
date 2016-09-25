@@ -1,9 +1,9 @@
 ---
 layout: default
-img: hybridclouds.png
+img: hybrid-03.png
 category: hybridclouds
 title: 服务目录
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 集成企业OA审批系统；

@@ -1,9 +1,9 @@
 ---
 layout: default
-img: devops.png
+img: devops-01.png
 category: devops
 title: 帮助企业建立基础规范
-description: FIT2CLOUD 混合云管理平台
+description:
 ---
 
  * 统一环境管理规范，确保环境无差异；

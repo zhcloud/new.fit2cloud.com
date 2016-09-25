@@ -8,7 +8,7 @@
     <div class="content-section-a">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5 col-sm-6">
+                <div class="col-lg-5 col-sm-6 col-sm-offset-1">
                     <div class="clearfix"></div>
                     <br/>
                     <br/>
@@ -17,8 +17,8 @@
                     <h4 class="section-subheading"> {{ post.description }}</h4>
                     <div class="lead">{{ post.content }}</div>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/introductions/{{ post.img }}" alt="">
+                <div class="col-lg-5 col-sm-6">
+                    <img class="img-responsive" style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;" src="/img/{{ post.img }}" alt="">
                 </div>
             </div>
 
@@ -38,7 +38,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/introductions/{{ post.img }}" alt="">
+                    <img class="img-responsive" style="max-width:650px; max-height: 370px; padding-top: 20px; padding-bottom: 20px;" src="/img/{{ post.img }}" alt="">
                 </div>
             </div>
         </div>
