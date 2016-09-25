@@ -1,13 +1,12 @@
 ---
 layout: default
-img: products/devops-02.png
+img: products/cost-03.png
 category: Introductions
-title: 用好云服务
-description: FIT2CLOUD DevOps协作平台
+title: 控好云成本
+description: FIT2CLOUD 云费用管理平台
 ---
 
- * 在混合云环境落地 AWS DevOps 解决方案
- * 统一开发、测试、准生产和生产环境的部署和管理
- * 可视化整个部署过程，实时展示部署进度及结果
- * 对接常见代码构建工具，实现统一的 Artifacts 管理
- 
+ * 公有云账单费用的可视化分析
+ * 云资源的使用情况分析
+ * 提供详细的云费用优化建议和预测
+ * 支持智能标签技术
