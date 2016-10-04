@@ -48,7 +48,7 @@ h4 {
         height: 100%;
         text-align: center;
         color: #06497D;
-        background: url(../img/bg-mid.jpg) no-repeat center 0;
+        background: url(../img/bg-mid.jpg) no-repeat center 30px;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -643,4 +643,11 @@ p.copyright {
 .navbar.scrolled {
     background: rgb(68, 68, 68); //IE
     background: rgba(0, 0, 0, 0.78); //NON-IE
+}
+
+.whitepaper {
+    border-top: 1px solid #F1F1F1;
+    border-bottom: 1px solid #F1F1F1;
+    background-color: #F1F1F1;
+    min-height: 200px;
 }
