@@ -646,8 +646,9 @@ p.copyright {
 }
 
 .whitepaper {
-    border-top: 1px solid #F1F1F1;
+    background-size: cover;
+    background: url(../img/partners/wave-back.jpg) no-repeat bottom center;
     border-bottom: 1px solid #F1F1F1;
-    background-color: #F1F1F1;
-    min-height: 200px;
+    position: relative;
+    padding:6.875rem 0;
 }
