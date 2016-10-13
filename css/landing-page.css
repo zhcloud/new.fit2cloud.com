@@ -607,7 +607,7 @@ p.copyright {
     border: 1px solid #d0d0d0;
 }
 .media-container {
-    padding: 25px 5px 5px;
+    padding: 10px 5px 5px;
 }
 
 .media-container a:hover {
@@ -618,8 +618,8 @@ p.copyright {
     top: -8px;
 }
 .media-left img {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
 }
 
 .media-body h5 {
