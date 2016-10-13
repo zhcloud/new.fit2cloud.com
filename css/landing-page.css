@@ -652,3 +652,7 @@ p.copyright {
     position: relative;
     padding:6.875rem 0;
 }
+
+.col-lg-pull-10px {
+    right: 10px;
+}
