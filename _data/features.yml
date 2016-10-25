@@ -53,6 +53,12 @@
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
+- id: feature_70
+  name: 支持互联港湾云
+  free: "no"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
 - id: feature_13
   name: 其他私有云和虚拟化平台
   free: "no"
