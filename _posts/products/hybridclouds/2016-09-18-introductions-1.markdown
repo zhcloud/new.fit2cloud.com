@@ -2,7 +2,7 @@
 layout: default
 img: hybrid-01.png
 category: hybridclouds
-title: 支持公有云、私有云和虚拟化平台
+title: 统一对接物理机、虚拟化平台、私有云和公有云、私有云
 description:
 ---
 
