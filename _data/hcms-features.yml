@@ -1,166 +1,134 @@
 - id: feature_1
-  category: 仪表盘
+  category: 混合 IT 对接
   name:
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_2
-  name: 默认仪表盘
+  name: vSphere 5.* / 6.*
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_3
-  name: 我的收藏
+  name: Openstack
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_4
-  category: 账单费用分析
-  name:
+  name: FusionSphere 5/6
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_5
-  name: 账单费用分析
+  name: 亚马逊AWS
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_6
-  name: 费用分摊分析
+  name: 阿里云
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_7
-  category: 预留实例分析
-  name:
+  name: 物理机
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_8
-  name: 云主机预留实例分析
+  category: 资源统计及成本分析
+  name:
   standard: "yes"
   pro: "yes"
-  enterprise: "yes"
+  enterprise: "yes"  
 - id: feature_9
-  name: RDS预留实例分析
+  name: 群集分析
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_10
-  name: 预留实例购买建议
+  name: 宿主机分析
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_11
-  category: 资源使用分析
-  name:
+  name: 存储器分析
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_12
-  name: 云主机
+  name: 虚机分析
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_13
-  name: 云磁盘
+  name: 价格设置
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_14
-  name: RDS数据库
+  name: 成本分析
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_15
-  name: S3对象存储
+  name: 仪表盘
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_16
-  name: 负载均衡
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_17
-  category: 费用优化
+- id: feature_15
+  category: 服务运营门户
   name:
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
+- id: feature_16
+  name: 工单管理
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_17
+  name: 产品定义
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
 - id: feature_18
-  name: 未挂载的云磁盘
+  name: 配额管理
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_19
-  name: 未绑定的EIP
+  name: 流程审批
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_20
-  name: 空闲的负载均衡
+  name: 资源管理
   standard: "yes"
   pro: "yes"
-  enterprise: "yes"
+  enterprise: "yes"  
 - id: feature_21
-  name: 云主机大小优化
+  category: 自服务门户
+  name:
   standard: "yes"
   pro: "yes"
-  enterprise: "yes"
+  enterprise: "yes"  
 - id: feature_22
-  name: RDS大小优化
+  name: 创建工单
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_23
-  category: 费用预测和预算
+  name: 浏览产品
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_24
-  name: 费用预测
+  name: 产品申请
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_25
-  name: 预算管理
+  name: 我的主机
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_26
-  category: 系统管理
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_27
-  name: 用户管理
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_28
-  name: 云账号管理
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes" 
-- id: feature_29
-  name: 标签管理
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes" 
-- id: feature_30
-  name: 报告设置
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"  
-- id: feature_31
-  name: 告警设置
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"  
-- id: feature_32
-  name: 系统设置
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"          
-

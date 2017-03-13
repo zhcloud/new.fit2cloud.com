@@ -1,306 +1,233 @@
 - id: feature_1
-  category: 混合云管理
+  category: 云平台支持
   name:
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_2
-  name: 支持阿里云Aliyun
+  name: 支持阿里云、亚马逊AWS等公有云
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_3
-  name: 支持亚马逊AWS
-  free: "yes"
+  name: 支持Openstack、vSphere等私有云
+  free: "no"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_4
-  name: 支持青云QingCloud
+  name: 支持物理机
   free: "yes"
   standard: "yes"
   pro: "yes"
-  enterprise: "yes"
+  enterprise: "yes"  
 - id: feature_5
-  name: 支持UCloud
+  category: 操作系统支持 (Agent)
+  name: 
   free: "yes"
   standard: "yes"
   pro: "yes"
-  enterprise: "yes"
+  enterprise: "yes"  
 - id: feature_6
-  name: 支持腾讯云QCloud
+  name: CentOs/Redhat 5/6/7
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_7
-  name: 支持物理机及独立虚机
+  name: Ubuntu 12.04/14.04
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_8
-  name: 支持Openstack
-  free: "no"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_12
-  name: 支持vSphere
-  free: "no"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_70
-  name: 支持互联港湾云
-  free: "no"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_13
-  name: 其他私有云和虚拟化平台
-  free: "no"
-  standard: "no"
-  pro: "no"
-  enterprise: "可定制开发"
-- id: feature_14
-  name: CentOs/Redhat 5/6/7 (agent)
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_15
-  name: Ubuntu 12.04/14.04 (agent)
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_16
-  name: Suse 11/12 (agent)
+  name: Suse 11/12
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_9
-  name: Debian 6/7 (agent)
+  name: Debian 6/7
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_10
-  name: Windows (agent)
+  name: Windows XP/2003/2008/2012
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-
 - id: feature_11
-  name: AIX 5/6/7 (agent)
+  name: AIX 5/6/7
   free: "no"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-
-- id: feature_17
+- id: feature_12
   category: 自动化运维
   name:
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_18
+- id: feature_13
   name: 批量脚本执行
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_19
+- id: feature_14
   name: 定时脚本执行
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_20
+- id: feature_15
   name: 自动伸缩功能
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_21
+- id: feature_16
   name: 告警触发执行脚本
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_22
+- id: feature_17
+  name: Web SSH（堡垒机）
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"  
+- id: feature_19
   category: 监控告警
   name:
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_23
+- id: feature_20
   name: 虚机基础监控
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_24
-  name: 监控面板
+- id: feature_21
+  name: 监控仪表盘
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_25
-  name: 可定制仪表盘
+- id: feature_22
+  name: 站点和端口监控
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_26
-  name: 站点监控
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_27
-  name: 端口监控
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_28
+- id: feature_23
   name: 自定义监控
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
+- id: feature_24
+  name: 短信和邮件通知
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes" 
+- id: feature_25
+  category: 版本控制、CI、制品库 工具支持
+  name:
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_26
+  name: 支持GitLab、SVN和RTC
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_27
+  name: 支持对接Jenkins、Bamboo
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_28
+  name: 支持对接Nexus、Artifactory、对象存储
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
 - id: feature_29
-  name: 邮件通知
+  category: 应用部署
+  name:
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
+- id: feature_30
+  name: 支持不同类型应用（.Net, Java, C）
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
 - id: feature_31
-  category: 自服务IT
-  name:
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_32
-  name: 虚机创建模版
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_33
-  name: 自动部署应用
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_34
-  name: 一键释放资源
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_41
-  name: 自定义镜像支持
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_42
-  name: SSH登录Console
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_43
-  category: DevOps/持续部署
-  name:
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_44
-  name: Jenkins插件
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_45
-  name: Nexus仓库支持
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_46
-  name: OSS仓库支持
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_48
-  name: 支持AWS CodeDeploy部署规范
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_49
   name: 支持不同的部署策略
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_51
+- id: feature_32
   name: 部署过程可视化
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_52
+- id: feature_33
+  name: 支持部署回滚
+  free: "yes"
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"  
+- id: feature_34
   category: 系统管理 & SDK
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_54
+- id: feature_35
   name: 操作日志、审计
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_56
+- id: feature_36
   name: 用户管理
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_59
+- id: feature_37
   name: REST API
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_60
+- id: feature_38
   name: CLI工具
   free: "yes"
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
-- id: feature_61
+- id: feature_39
   name: Java SDK
-  free: "yes"
-  standard: "yes"
-  pro: "yes"
-  enterprise: "yes"
-- id: feature_62
-  name: Python SDK
   free: "yes"
   standard: "yes"
   pro: "yes"
