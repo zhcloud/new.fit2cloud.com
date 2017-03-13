@@ -29,6 +29,11 @@
   standard: "yes"
   pro: "yes"
   enterprise: "yes"
+- id: feature_61
+  name: QingCloud
+  standard: "yes"
+  pro: "yes"
+  enterprise: "yes"
 - id: feature_7
   name: 物理机
   standard: "yes"
