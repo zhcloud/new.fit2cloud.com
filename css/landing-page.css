@@ -33,7 +33,7 @@ h4 {
 }
 
 .home-wrapper {
-    height: 100%;
+    height: 72%;
     text-align: center;
     color: #06497D;
     background: url(../img/new_bg.jpg) no-repeat center 0;
@@ -45,7 +45,7 @@ h4 {
 
 @media(max-width:1600px) {
     .home-wrapper {
-        height: 100%;
+        height: 72%;
         text-align: center;
         color: #06497D;
         background: url(../img/new_bg.jpg) no-repeat center 30px;
