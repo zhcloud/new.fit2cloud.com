@@ -33,7 +33,7 @@ h4 {
 }
 
 .home-wrapper {
-    height: 72%;
+    height: 440px;
     text-align: center;
     color: #06497D;
     background: url(../img/new_bg.jpg) no-repeat center 0;
@@ -45,7 +45,7 @@ h4 {
 
 @media(max-width:1600px) {
     .home-wrapper {
-        height: 72%;
+        height: 440px;
         text-align: center;
         color: #06497D;
         background: url(../img/new_bg.jpg) no-repeat center 30px;
@@ -117,11 +117,11 @@ h4 {
 }
 
 .intro-text {
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 500;
     text-align:center;
     color: white;
-    margin-top: 30%;
+    margin-top: 180px;
 }
 
 .product-text {
@@ -134,7 +134,7 @@ h4 {
     font-size: 35px;
     font-family: Arial, sans-serif;
     font-weight:300;
-    color: #ffffff;
+    color: #00eaff;
 }
 #intro-btn {
     position: relative;
@@ -295,10 +295,18 @@ h4 {
     list-style-image: url("/img/li_selected_bullet_take_actions.gif");
 }
 
+.content-section-a {
+    border-top: 1px solid #F1F1F1;
+    border-bottom: 1px solid #F1F1F1;
+    background-color: #ffffff;
+    min-height: 390px;
+}
+
 .content-section-b {
     border-top: 1px solid #F1F1F1;
     border-bottom: 1px solid #F1F1F1;
     background-color: #F1F1F1;
+    min-height: 390px;
 }
 
 .section-heading {

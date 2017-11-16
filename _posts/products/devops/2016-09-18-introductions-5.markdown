@@ -1,7 +1,7 @@
 ---
-id: self_service
+jump: self_service
 layout: default
-img: 自服务_编辑产品.png
+img: self_service.png
 category: devops
 title: 自服务平台
 description:

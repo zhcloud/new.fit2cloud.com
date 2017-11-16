@@ -1,9 +1,9 @@
 ---
-id: menagement
+jump: it
 layout: default
-img: 管理中心.png
+img: plug.png
 category: devops
-title: 混合IT对接
+title: 混合 IT 对接
 description:
 ---
 

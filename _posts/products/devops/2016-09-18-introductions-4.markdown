@@ -1,7 +1,7 @@
 ---
-id: resource
+jump: resource
 layout: default
-img: 资源分析平台.png
+img: resource.png
 category: devops
 title: 资源统计分析平台
 description:

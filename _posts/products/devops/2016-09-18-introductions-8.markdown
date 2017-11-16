@@ -1,5 +1,5 @@
 ---
-id: aliyun
+jump: aliyun
 layout: default
 img: aliyun.png
 category: devops

@@ -1,5 +1,5 @@
 ---
-id: jumpserver
+jump: jumpserver
 layout: default
 img: jumpserver.png
 category: devops

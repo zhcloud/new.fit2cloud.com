@@ -3128,6 +3128,12 @@ tbody.collapse.in {
 .dropdown {
   position: relative;
 }
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; // remove the gap so it doesn't close
+}
+
 .dropdown-toggle:focus {
   outline: 0;
 }
@@ -4839,6 +4845,8 @@ a.thumbnail.active {
 .media-heading {
   margin: 0 0 5px;
 }
+
+.item a{}
 .media > .pull-left {
   margin-right: 10px;
 }

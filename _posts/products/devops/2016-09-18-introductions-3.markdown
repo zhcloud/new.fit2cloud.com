@@ -1,7 +1,7 @@
 ---
-id: workspace
+jump: menage
 layout: default
-img: 工作空间.png
+img: menagement.png
 category: devops
 title: 管理中心
 description:

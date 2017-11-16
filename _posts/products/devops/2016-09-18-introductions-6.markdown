@@ -1,5 +1,5 @@
 ---
-id: devops
+jump: devops
 layout: default
 img: Devops.png
 category: devops
