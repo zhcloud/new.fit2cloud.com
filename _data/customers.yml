@@ -2,114 +2,227 @@
   name: 海通证券
   url: https://www.htsec.com/
   img: /img/logos/海通证券.png
-  description: 海通证券股份有限公司（以下简称“海通证券”）成立于1988年，是国内最早成立的证券公司中唯一未被更名、注资的大型证券公司。 自2007年以来，公司总资产和净资产一直位居国内证券行业第二位。
-
-- id: 20175
-  name: 远成物流
-  url: http://www.ycgky.com/
-  img: /img/logos/远成物流.png
-  description: 远成物流股份有限公司（Yuan Cheng Logistics Co., Ltd.）(简称：远成物流）创建于1988年，注册资金3.05亿。通过20多年的拼搏，远成物流已发展成为以公路快运、城际配送、仓储服务、铁路运输、金融物流、航空海运、国际货代及物流方案策划等为主导。
-
-- id: 20176
-  name: 无限极
-  url: https://www.infinitus.com.cn/
-  img: /img/logos/无限极.png
-  description: “无限极”是无限极（中国）有限公司——原“南方李锦记有限公司”的核心品牌、香港李锦记集团旗下专门从事中草药健康产品开发与销售的独资子公司。成立于1992年，以“无限极”为核心品牌，是一家从事中草药健康产品开发、生产及销售的大型港资企业，总部位于中国广州。
-
-- id: 20177
-  name: OPPO
-  url: http://www.oppo.com
-  img: /img/logos/oppo.png
-  description: OPPO全称广东欧珀移动通信有限公司，成立于2004年。是一家全球性的智能终端制造商和移动互联网服务提供商，致力于为客户提供先进和精致的智能手机、高端影音设备和移动互联网产品与服务。OPPO先后进入MP3、MP4、蓝光高清影音、手机和移动互联网等领域，如今产品和服务已覆盖中国、美国、俄罗斯、欧洲、东南亚等广大市场，现正致力于打造专业化的智能手机与移动互联网公司。
-
-- id: 20178
-  name: 中国电信
-  url: http://www.189.cn/
-  img: /img/logos/中国电信.png
-  description: 中国电信，全名中国电信集团公司，是按照中华人民共和国电信体制改革方案所组建的特大型国有通信企业和中央企业，是中国第一大固网和数据通信运营商以及第三大移动通信运营商，其在中国的固定电话和固网宽带的市场占有率均超过了50%，并拥有全球规模最大的固定电话网络和数据通信网络，覆盖全国城乡，通达世界各地。
-
-- id: 20179
-  name: 联想
-  url: http://www.lenovo.com.cn/
-  img: /img/logos/lenovo.png
-  description: 作为全球电脑市场的领导企业，联想从事开发、制造并销售可靠的、安全易用的技术产品及优质专业的服务，帮助全球客户和合作伙伴取得成功。
+  type: finance
+  description: 国内最早成立的证券公司中唯一未被更名、注资的大型证券公司
 
 - id: 1
   name: 招商银行
   url: http://www.cmbchina.com/
   img: /img/logos/cmb.png
-  description: 招商银行于1987 年在中国改革开放的最前沿--深圳经济特区成立，是中国境内第一家完全由企业法人持股的股份制商业银行，也是国家从体制外推动银行业改革的第一家试点银行。凭借持续的金融创新、优质的客户服务、稳健的经营风格和良好的经营业绩，招行现已发展成为中国境内最具品牌影响力的商业银行之一。
+  type: finance
+  description: 中国境内第一家完全由企业法人持股的股份制商业银行
+
 
 - id: 12
   name: 兴业证券
   url: http://www.xyzq.com.cn
   img: /img/logos/xyzq.png
-  description: 兴业证券股份有限公司（601377 SH）是中国证监会核准的全国创新类证券公司。在经济新常态下，证券行业正成为未来最具发展前景的朝阳行业。面对新的机遇和挑战，兴业证券进一步明确第二个五年（2016年-2020年）战略规划，争取用5年时间，使公司综合实力进入行业10强，初步实现把兴业证券建设成为我国具有系统重要性的大型现代投资银行的战略目标。
-
-- id: 13
-  name: SONY
-  url: http://www.sony.com.cn
-  img: /img/logos/sony.png
-  description: 索尼公司（日语：ソニー株式会社，英语：Sony Corporation）是以日本东京港区为企业总部，横跨消费性电子产品、专业性电子产品、游戏、金融、娱乐及养老院[3][4]经营等领域的跨国综合企业，拥有全世界的品牌知名度。
+  type: finance
+  description: 中国证监会核准的全国创新类证券公司
 
 - id: 9
   name: 证通股份
   url: http://www.ect888.com/
   img: /img/logos/证通.png
-  description: 证通股份有限公司成立于2015年1月8日，是由国内众多主流证券公司、基金公司、期货公司等证券业机构及支付公司等产业相关机构以市场化方式共同发起成立的综合性互联网金融服务企业。公司定位于面向证券业的重要基础设施和互联网创新服务平台，将加快实现证券业互联互通、有效服务证券业创新发展需要作为公司设立使命。
-
-- id: 11
-  name: 东方明珠
-  url: http://www.oriental-pearl.cn/
-  img: /img/logos/dfmz.jpeg
-  description: 上海东方明珠新媒体股份有限公司（股票代码：SH.600637）是上海广播电视台、上海文化广播影视集团有限公司（SMG）旗下统一的产业平台和资本平台。东方明珠拥有国内最大的多渠道视频集成与分发平台及知名的文化旅游资源，为用户提供丰富多元、特色鲜明的视频内容服务及一流的视频购物、文化娱乐旅游、影视剧、数字营销及游戏等传媒和娱乐产品。
-
-- id: 10
-  name: 中国手游
-  url: http://www.cmge.com/
-  img: /img/logos/cmge.png
-  description: 中国手游娱乐集团有限公司（简称CMGE中国手游）是国际领先的移动游戏开发商与发行商，专注于移动游戏的开发及发行, 同时中国手游是国内首家登陆纳斯达克的手机游戏公司。自主研发超过450个单机游戏、网络游戏及游戏平台产品，并多次荣获“最佳移动平台网络游戏”、“最佳手机网络游戏”、“中国十大最受欢迎民族手机游戏”、“最佳手机游戏开商”等国内重大手机游戏类和企业类奖项.
+  type: finance
+  description: 由国内众多证券业机构及支付公司等产业相关机构以市场化方式共同发起成立的综合性互联网金融服务企业
 
 - id: 14
   name: 随行付
   url: https://www.vbill.cn
   img: /img/logos/vbill.png
-  description: 随行付是中国领先的独立支付及清结算服务平台，由北京随行付信息技术有限公司注资1.6亿元创建，已获得“人民银行”颁发的全国范围银行卡收单牌照、互联网支付牌照、移动电话支付牌照。2013年9月，经中国人民银行批准，随行付品牌升级，正式更名为“随行付支付有限公司”。
-
-- id: 2
-  name: 华数传媒
-  url: http://www.wasu.com/
-  img: /img/logos/华数传媒.jpg
-  description: 华数传媒主营杭州地区八区五县（市）有线电视网络节目内容传输业务及包括互动电视、互联网电视、手机电视和互联网视听等在内的新媒体、新业态业务。作为华数三网融合的主阵地，华数TV网（www.wasu.cn）已稳定运行在阿里云计算平台，完成了上百台物理服务器的迁移，成为国内首个构建在云上的大型视频网站。
+  type: finance
+  description: 中国领先的独立支付及清结算服务平台，已获得“人民银行”颁发的全国范围银行卡收单牌照、互联网支付牌照、移动电话支付牌照
 
 
-- id: 3
-  name: 软通动力
-  url: http://www.isoftstone.com
-  img: /img/logos/软通动力.jpg
-  description: 软通动力是中国领先的全方位IT服务及行业解决方案提供商，立足中国，服务大中华区和全球市场。业务范围涵盖咨询及解决方案、IT 服务及业务流程外包（BPO）服务等，是高科技、通信、银行/企业金融/保险、能源/交通/公用事业等行业重要的IT综合服务提供商和战略合作伙伴。
+- id: 2017111601
+  name: 中泰证券
+  url: https://www.zts.com.cn/
+  img: /img/logos/zts.jpeg
+  type: finance
+  description: 经中国证监会批准设立的大型综合类创新试点证券公司
 
-- id: 4
-  name: 小影
-  url: http://www.xiaoying.tv/
-  img: /img/logos/小影.png
-  description: 小影是杭州趣维科技有限公司在2013年初推出的一款手机视频拍摄剪辑应用。凭借手机端视频处理技术专利，让PC端的专业视频剪辑变得简单方便。用户可以轻松的完成多镜头剪切、字幕、贴纸、配音/配乐等功能，随时随地打造你的专属微电影！小影发展至今，已拥有海内外1亿用户，并成为国内最大的短视频App之一！
+- id: 2017111605
+  name: 阳光信保
+  url: https://www.sinosig.com/
+  img: /img/logos/sinosig.jpeg
+  type: finance
+  description: 我国首家市场化运营的专业信用保证保险公司
+
+- id: 2017111606
+  name: 华晨宝马
+  url: http://www.bmw.com.cn/zh/index.html
+  img: /img/logos/hcbmw.jpeg
+  type: manufacture
+  description: 华晨宝马汽车有限公司是宝马集团和华晨中国汽车控股有限公司共同投资成立的合资企业
+
+- id: 2017111607
+  name: 吉林银行
+  url: http://www.jlbank.com.cn/
+  img: /img/logos/jlbank.jpg
+  type: finance
+  description: 经中国银行业监督管理委员批准，长春市商业银行与吉林市商业银行、辽源市城市信用社合并而成立的股份有限公司
+
+
+
+
+- id: 2017111609
+  name: 山西农信社
+  url: http://www.shanxinj.com/
+  img: /img/logos/sx.jpg
+  type: finance
+  description: 山西省信用联合社于2005年8月正式挂牌成立，是由辖内113家市、县级联社发起设立，并委托对全省农村信用社实施管理的行业管理机构
+
+
+- id: 20179
+  name: 联想
+  url: http://www.lenovo.com.cn/
+  img: /img/logos/lenovo.png
+  type: manufacture
+  description: 中国的一家在信息产业内多元化发展的大型企业集团，和富有创新性的国际化的科技公司
+
+- id: 13
+  name: SONY
+  url: http://www.sony.com.cn
+  img: /img/logos/sony.png
+  type: manufacture
+  description: 横跨消费性电子产品、专业性电子产品、游戏、金融、娱乐及养老院经营等领域的跨国综合企业
+
+- id: 20177
+  name: OPPO
+  url: http://www.oppo.com
+  img: /img/logos/oppo.png
+  type: manufacture
+  description: 一家全球性的智能终端制造商和移动互联网服务提供商
+
+- id: 2017111608
+  name: 红豆集团
+  url: http://www.hongdou.com/
+  img: /img/logos/hodologo33px.jpeg
+  type: manufacture
+  description: 集科研开发、生产制造、全球贸易于一体的大型民营企业集团
+
+
+
+
+
+
+- id: 20178
+  name: 中国电信
+  url: http://www.189.cn/
+  img: /img/logos/中国电信.png
+  type: other
+  description: 中国第一大固网和数据通信运营商以及第三大移动通信运营商
+
+- id: 20175
+  name: 远成物流
+  url: http://www.ycgky.com/
+  img: /img/logos/远成物流.png
+  type: other
+  description: 集实业投资和国际贸易为一体的综合性现代化企业集团
+
+- id: 20176
+  name: 无限极
+  url: https://www.infinitus.com.cn/
+  img: /img/logos/无限极.png
+  type: other
+  description: 以“无限极”为核心品牌，是一家从事中草药健康产品开发、生产及销售的大型港资企业
+
+- id: 2017111602
+  name: 远景能源
+  url: http://www.envisioncn.com/
+  img: /img/logos/envisioncn.png
+  type: other
+  description: 目前是全球最大的智慧能源资产管理服务公司
 
 - id: 5
   name: 大庆英辰
   url: http://www.ench.cn/
   img: /img/logos/大庆英辰.png
-  description: 大庆英辰创新科技有限公司创始于1996年，已在大庆为油田企业服务十余年，自主开发的软件主要有：社会保险管理系统软件（五保合一）、燃气管理系统软件、英辰语音服务系统软件、英辰电子签封管理系统软件、电话自动通知管理系统软件、亮剑影像管理系统软件等。英辰公司为大庆油田保险中心、大庆燃气公司、大庆石油管理局财务处、井下作业公司、采油一厂、测试技术公司、物资装备集团等单位开发、建设了计算机网络系统和提供了计算机系统服务。
+  type: other
+  description: 大庆英辰创新科技有限公司是一家从事计算机软件开发、服务、运营的专业公司,已在大庆为油田企业服务十余年
+
+- id: 3
+  name: 软通动力
+  url: http://www.isoftstone.com
+  img: /img/logos/软通动力.jpg
+  type: other
+  description: 中国领先的全方位IT服务及行业解决方案提供商，立足中国，服务大中华区和全球市场
+
+- id: 2017111604
+  name: 伟仕佳杰
+  url: http://www.ecschina.com/
+  img: /img/logos/ecschina.jpg
+  type: other
+  description: 是亚太区最大的科技产品 解决方案及供应链服务平台
 
 - id: 11
   name: 互联港湾
   url: http://www.idccun.com/
   img: /img/logos/bih.png
-  description: 北京互联港湾科技有限公司成立于2009年，是一家专业从事互联网基础服务提供商的高新技术企业，主营业务为互联网数据中心服务（IDC及其增值服务）以及云计算技术服务。互联港湾拥有全网IDC、ISP牌照，同时互联港湾还是CNNIC和APNIC会员单位,拥有独立的IP地址段及AS号。通过与中国联通、 中国电信、中国移动、中国铁通、科技网、教育网等各大电信运营商的长期紧密合作，公司整合了各大运营商的优势资源，为客户提供优质网络服务
+  type: other
+  description: 一家专业从事互联网基础服务提供商的高新技术企业，主营业务为互联网数据中心服务（IDC及其增值服务）以及云计算技术服务
+
+
+
+
+
+
+
+
+
+
+
+
+- id: 10
+  name: 中国手游
+  url: http://www.cmge.com/
+  img: /img/logos/cmge.png
+  type: gaming
+  description: 国际领先的移动游戏开发商与发行商，专注于移动游戏的开发及发行, 同时中国手游是国内首家登陆纳斯达克的手机游戏公司
+
+
+
+
+
+
+
+
+- id: 4
+  name: 小影
+  url: http://www.xiaoying.tv/
+  img: /img/logos/小影.png
+  type: gaming
+  description: 发展至今，已拥有海内外1亿用户，并成为国内最大的短视频App之一！
 
 - id: 7
   name: 米哈游
   url: http://www.mihoyo.com
   img: /img/logos/米哈游.jpg
-  description: miHoYo米哈游网络，2011年成立于魔都，全员由肥死宅的技术绅士组成，所以从公司走到CP同人祭只要10分钟这种事情怎么能写在游戏简介里呐！！秉持“技术宅拯救世界”的目标，2012年miHoYo在iOS平台推出了风格纯正的ACG动作手游《崩坏学园》，《崩坏学园2》即为此款作品全面拓展革新后的正统续作。 
+  type: gaming
+  description: 秉持“技术宅拯救世界”的目标，2012年miHoYo在iOS平台推出了风格纯正的ACG动作手游《崩坏学园》，《崩坏学园2》即为此款作品全面拓展革新后的正统续作
+
+- id: 2017111603
+  name: 慕和网络
+  url: http://www.muhenet.com/
+  img: /img/logos/muhe.jpg
+  type: gaming
+  description: 一家致力于智能平台游戏开发运营的创新型科技企业，在香港和韩国先后成立多家分公司
+
+
+
+- id: 2
+  name: 华数传媒
+  url: http://www.wasu.com/
+  img: /img/logos/华数传媒.jpg
+  type: media
+  description: 国内首个构建在云上的大型视频网站。
+
+
+- id: 11
+  name: 东方明珠
+  url: http://www.oriental-pearl.cn/
+  img: /img/logos/dfmz.jpeg
+  type: media
+  description: 上海广播电视台、上海文化广播影视集团有限公司（SMG）旗下统一的产业平台和资本平台
 
