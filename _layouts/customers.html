@@ -13,11 +13,11 @@
                     </div>
                     {% for customer in site.data.customers %}
                     {% if customer.type == 'finance' %}
-                    <div class="col-md-3" style="margin-bottom: 30px;padding-left: 0px;height: 200px">
+                    <div class="col-md-3" style="margin-bottom: 0px;padding-left: 0px;height: 200px">
                         <div class="col-md-12">
                             <a href={{ customer.url }} class="case-logo"><img src={{ customer.img }}></a>
                         </div>
-                        <div class="col-md-12" style="width: 230px">
+                        <div class="col-md-12" style="width: 230px;text-align: center">
                             <p style="font-size: 12px;margin-top: 10px;color: #999">{{ customer.description }}</p>
                         </div>
                     </div>
@@ -42,32 +42,7 @@
                         <div class="col-md-12">
                             <a href={{ customer.url }} class="case-logo"><img src={{ customer.img }}></a>
                         </div>
-                        <div class="col-md-12" style="width: 230px">
-                            <p style="font-size: 13px;margin-top: 10px;color: #999">{{ customer.description }}</p>
-                        </div>
-                    </div>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <section id="gaming">
-        <div class="row">
-            <div class="case-tab" id="case_4003">
-                <div class="case-item" id="case-item-id3">
-                    <div class="col-md-12" style="border-bottom: 1px solid #DFDFDF;margin-bottom: 10px;">
-                        <h2><a> 互联网及游戏</a></h2>
-                    </div>
-                    {% for customer in site.data.customers %}
-                    {% if customer.type == 'gaming' %}
-                    <div class="col-md-3" style="margin-bottom: 30px;padding-left: 0px;height: 200px">
-                        <div class="col-md-12">
-                            <a href={{ customer.url }} class="case-logo"><img src={{ customer.img }}></a>
-                        </div>
-                        <div class="col-md-12" style="width: 230px">
+                        <div class="col-md-12" style="width: 230px;text-align: center">
                             <p style="font-size: 13px;margin-top: 10px;color: #999">{{ customer.description }}</p>
                         </div>
                     </div>
@@ -92,7 +67,32 @@
                         <div class="col-md-12">
                             <a href={{ customer.url }} class="case-logo"><img src={{ customer.img }}></a>
                         </div>
-                        <div class="col-md-12" style="width: 230px">
+                        <div class="col-md-12" style="width: 230px;text-align: center">
+                            <p style="font-size: 13px;margin-top: 10px;color: #999">{{ customer.description }}</p>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="gaming">
+        <div class="row">
+            <div class="case-tab" id="case_4003">
+                <div class="case-item" id="case-item-id3">
+                    <div class="col-md-12" style="border-bottom: 1px solid #DFDFDF;margin-bottom: 10px;">
+                        <h2><a> 互联网</a></h2>
+                    </div>
+                    {% for customer in site.data.customers %}
+                    {% if customer.type == 'gaming' %}
+                    <div class="col-md-3" style="margin-bottom: 30px;padding-left: 0px;height: 200px">
+                        <div class="col-md-12">
+                            <a href={{ customer.url }} class="case-logo"><img src={{ customer.img }}></a>
+                        </div>
+                        <div class="col-md-12" style="width: 230px;text-align: center">
                             <p style="font-size: 13px;margin-top: 10px;color: #999">{{ customer.description }}</p>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                         <div class="col-md-12">
                             <a href={{ customer.url }} class="case-logo"><img src={{ customer.img }}></a>
                         </div>
-                        <div class="col-md-12" style="width: 230px">
+                        <div class="col-md-12" style="width: 230px;text-align: center">
                             <p style="font-size: 13px;margin-top: 10px;color: #999">{{ customer.description }}</p>
                         </div>
                     </div>
