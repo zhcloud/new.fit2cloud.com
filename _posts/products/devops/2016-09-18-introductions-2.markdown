@@ -1,11 +1,13 @@
 ---
+id: menagement
 layout: default
-img: devops-02.png
+img: 管理中心.png
 category: devops
-title: 提供端到端的DevOps工具链
+title: 混合IT对接
 description:
 ---
 
- * 可以对接常用构建工具和Artifact仓库；
- * 提供统一的部署引擎，确保使用统一工具部署各种环境；
- * 集成云API，快速创建环境；
+ 开箱即支持所有主流的基础设施类型。
+  * 公有云插件:亚马逊AWS、阿里云、微软Azure等
+  * 私有云插件:OpenStack、IBM PowerVC等
+  * 虚拟化插件:VMware vSphere，华为FusionSphere, Proxmox等

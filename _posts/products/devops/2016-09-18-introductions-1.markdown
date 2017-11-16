@@ -1,11 +1,14 @@
----
-layout: default
-img: devops-01.png
-category: devops
-title: 帮助企业建立基础规范
-description:
----
+ ---
+ id: menagement
+ layout: default
+ img: plug.png
+ category: devops
+ title: 混合IT对接
+ description:
+ ---
 
- * 统一环境管理规范，确保环境无差异；
- * 统一的应用打包规范，确保代码和部署脚本统一；
- * 统一的部署规范，确保部署全自动化；
+ 开箱即支持所有主流的基础设施类型。
+  * 公有云插件:亚马逊AWS、阿里云、微软Azure等
+  * 私有云插件:OpenStack、IBM PowerVC等
+  * 虚拟化插件:VMware vSphere，华为FusionSphere, Proxmox等
+

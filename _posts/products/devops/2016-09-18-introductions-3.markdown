@@ -1,11 +1,13 @@
 ---
+id: workspace
 layout: default
-img: devops-03.png
+img: 工作空间.png
 category: devops
-title: 帮助企业建立DevOps流程和文化
+title: 管理中心
 description:
 ---
-
- * 基于统一的规范和工具实现交付流水线；
- * 实现安全稳定和持续创新的平衡；
- * 落实“You build it, you run it ”的理念；
+统一的用户、租户、云账号及模块管理。
+ * 支持LDAP/AD对接
+ * 通过组织实现多级管理，通过工作空间实现资源和人的解耦
+ * 集中管理各种类型的云账号
+ * 灵活接入定制开发和第三方模块
