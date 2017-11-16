@@ -58,7 +58,7 @@ h4 {
 .devops-home-wrapper {
     text-align: center;
     color: #06497D;
-    height: 900px;
+    height: 800px;
     background-color: #F1F1F1;
     /*background: url(../img/products/devops-bg.jpg) no-repeat center 0;*/
     /*-webkit-background-size: cover;
@@ -89,11 +89,11 @@ h4 {
 }
 
 .product-intro-header {
-    padding-top: 8%;
     min-height:100%;
     font-weight: normal;
     font-size: 40px;
     color: #ffffff;
+    transform: translateY(15%);
 }
 .intro-header {
     min-height:100%;
@@ -296,7 +296,6 @@ h4 {
 }
 
 .content-section-a {
-    border-top: 1px solid #F1F1F1;
     border-bottom: 1px solid #F1F1F1;
     background-color: #ffffff;
     min-height: 390px;
