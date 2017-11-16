@@ -2,7 +2,7 @@
 	<br/>
 	<br/>
     <!-- Page Content -->
-    {% for post in site.categories.hybridclouds reversed %}
+    {% for post in site.categories.Introductions reversed %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
@@ -21,7 +21,6 @@
                     <img class="img-responsive" style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;" src="/img/{{ post.img }}" alt="">
                 </div>
             </div>
-
         </div>
     </div>
     {% else %}
