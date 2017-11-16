@@ -56,9 +56,9 @@ h4 {
     }
 }
 .devops-home-wrapper {
-    height: 72%;
     text-align: center;
     color: #06497D;
+    height: 900px;
     background-color: #F1F1F1;
     /*background: url(../img/products/devops-bg.jpg) no-repeat center 0;*/
     /*-webkit-background-size: cover;
