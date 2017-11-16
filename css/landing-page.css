@@ -33,7 +33,7 @@ h4 {
 }
 
 .home-wrapper {
-    height: 72%;
+    height: 440px;
     text-align: center;
     color: #06497D;
     background: url(../img/new_bg.jpg) no-repeat center 0;
@@ -45,7 +45,7 @@ h4 {
 
 @media(max-width:1600px) {
     .home-wrapper {
-        height: 72%;
+        height: 440px;
         text-align: center;
         color: #06497D;
         background: url(../img/new_bg.jpg) no-repeat center 30px;
@@ -119,7 +119,7 @@ h4 {
     font-weight: 500;
     text-align:center;
     color: white;
-    margin-top: 20%;
+    margin-top: 180px;
 }
 .intro-desc {
     font-size: 35px;
