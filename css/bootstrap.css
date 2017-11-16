@@ -4846,7 +4846,11 @@ a.thumbnail.active {
   margin: 0 0 5px;
 }
 
-.item a{}
+.dropdown-menu > li.item a:hover{
+  color: #262626;
+  text-decoration: none;
+  background-color: #DFDFDF;;
+}
 .media > .pull-left {
   margin-right: 10px;
 }
