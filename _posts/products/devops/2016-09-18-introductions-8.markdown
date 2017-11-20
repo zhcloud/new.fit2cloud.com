@@ -3,7 +3,7 @@ jump: aliyun
 layout: default
 img: aliyun.png
 category: devops
-title: 独立扩展模块之云费用管理平台
+title: 云费用管理平台(扩展模块)
 description:
 ---
 公有云费用的可视化分析、优化及预测。
