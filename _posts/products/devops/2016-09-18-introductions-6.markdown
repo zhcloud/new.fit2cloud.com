@@ -1,7 +1,7 @@
 ---
 jump: devops
 layout: default
-img: Devops.png
+img: devops.png
 category: devops
 title: DevOps 平台
 description:
