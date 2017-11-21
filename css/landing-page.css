@@ -80,6 +80,30 @@ h4 {
     }
 }
 
+.about-home-wrapper {
+    height: 480px;
+    text-align: center;
+    color: #06497D;
+    background: url(../img/example.png) no-repeat center 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@media(max-width:1600px) {
+    .about-home-wrapper {
+        height: 480px;
+        text-align: center;
+        color: #06497D;
+        background: url(../img/example.png) no-repeat center 30px;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}
+
 .devops-home-wrapper {
     text-align: center;
     color: #06497D;
