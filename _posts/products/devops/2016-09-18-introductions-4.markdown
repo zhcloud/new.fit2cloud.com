@@ -4,7 +4,7 @@ layout: default
 img: resource.png
 category: devops
 title: 资源统计分析平台
-description:资源统计及成本分析
+description: 资源统计及成本分析
 ---
 
  * 按部门、业务系统进行资源统计和成本分析

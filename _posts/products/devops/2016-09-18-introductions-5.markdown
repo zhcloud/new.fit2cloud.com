@@ -4,7 +4,7 @@ layout: default
 img: self_service.png
 category: devops
 title: 自服务平台
-description:IT 资源的自助服务和自动化交付
+description: IT 资源的自助服务和自动化交付
 ---
 
  * 提供向导式的服务目录产品定义

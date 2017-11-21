@@ -4,7 +4,7 @@ layout: default
 img: devops.png
 category: devops
 title: DevOps 平台
-description:在混合云环境下落地AWS DevOps解决方案
+description: 在混合云环境下落地AWS DevOps解决方案
 ---
 
  * 易于落地:对软件项目现有代码及架构无侵入、无限制
