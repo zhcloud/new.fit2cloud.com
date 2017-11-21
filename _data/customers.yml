@@ -12,6 +12,12 @@
   type: finance
   description: 中国境内第一家完全由企业法人持股的股份制商业银行
 
+- id: 1011
+  name: 嘉实基金
+  url: http://www.jsfund.cn/
+  img: /img/logos/finance/jianshijijin.png
+  type: finance
+  description: 是国内最早成立的10家基金管理公司之一，于2002年底被选为全国首批投资管理人
 
 - id: 1003
   name: 兴业证券
@@ -62,6 +68,9 @@
   img: /img/logos/finance/sx.png
   type: finance
   description: 山西省信用联合社于2005年8月正式挂牌成立，是由辖内113家市、县级联社发起设立
+
+
+
 
 
 
