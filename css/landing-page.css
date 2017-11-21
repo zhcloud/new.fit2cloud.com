@@ -95,7 +95,7 @@ h4 {
     height: 480px;
     text-align: center;
     color: #06497D;
-    background: url(../img/example.png) no-repeat center 0;
+    background: url(../img/product.png) no-repeat center 0;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -107,7 +107,7 @@ h4 {
         height: 480px;
         text-align: center;
         color: #06497D;
-        background: url(../img/example.png) no-repeat center 30px;
+        background: url(../img/product.png) no-repeat center 30px;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
