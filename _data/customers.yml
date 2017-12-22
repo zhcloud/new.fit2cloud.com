@@ -74,7 +74,12 @@
 
 
 
-
+- id: 2000
+  name: 上汽
+  url: https://www.saicmaxus.com
+  img: /img/logos/manufacture/shangqi.jpg
+  type: manufacture
+  description: 国内A股市场最大的汽车上市公司，财富世界500强企业
 
 - id: 2001
   name: 联想
