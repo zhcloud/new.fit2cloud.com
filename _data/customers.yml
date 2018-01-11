@@ -82,48 +82,46 @@
   description: 国内A股市场最大的汽车上市公司，财富世界500强企业
 
 - id: 2001
-  name: 联想
-  url: http://www.lenovo.com.cn/
-  img: /img/logos/manufacture/lenovo.png
-  type: manufacture
-  description: 中国的一家在信息产业内多元化发展的大型企业集团，和富有创新性的国际化的科技公司
-
-- id: 2002
-  name: SONY
-  url: http://www.sony.com.cn
-  img: /img/logos/manufacture/sony.png
-  type: manufacture
-  description: 横跨消费性电子产品、专业性电子产品、游戏、金融、娱乐及养老院经营等领域的跨国综合企业
-
-- id: 2003
-  name: OPPO
-  url: http://www.oppo.com
-  img: /img/logos/manufacture/oppo.png
-  type: manufacture
-  description: 一家全球性的智能终端制造商和移动互联网服务提供商
-
-- id: 2004
-  name: 红豆集团
-  url: http://www.hongdou.com/
-  img: /img/logos/manufacture/hodologo.png
-  type: manufacture
-  description: 集科研开发、生产制造、全球贸易于一体的大型民营企业集团
-
-- id: 2005
-  name: 无限极
-  url: https://www.infinitus.com.cn/
-  img: /img/logos/manufacture/无限极.png
-  type: manufacture
-  description: 以“无限极”为核心品牌，是一家从事中草药健康产品开发、生产及销售的大型港资企业
-
-- id: 1008
   name: 华晨宝马
   url: http://www.bmw.com.cn/zh/index.html
   img: /img/logos/manufacture/hcbmw.png
   type: manufacture
   description: 宝马集团和华晨中国汽车控股有限公司共同投资成立的合资企业
 
+- id: 2002
+  name: 联想
+  url: http://www.lenovo.com.cn/
+  img: /img/logos/manufacture/lenovo.png
+  type: manufacture
+  description: 中国的一家在信息产业内多元化发展的大型企业集团，和富有创新性的国际化的科技公司
 
+- id: 2003
+  name: SONY
+  url: http://www.sony.com.cn
+  img: /img/logos/manufacture/sony.png
+  type: manufacture
+  description: 横跨消费性电子产品、专业性电子产品、游戏、金融、娱乐及养老院经营等领域的跨国综合企业
+
+- id: 2004
+  name: OPPO
+  url: http://www.oppo.com
+  img: /img/logos/manufacture/oppo.png
+  type: manufacture
+  description: 一家全球性的智能终端制造商和移动互联网服务提供商
+
+- id: 2005
+  name: 红豆集团
+  url: http://www.hongdou.com/
+  img: /img/logos/manufacture/hodologo.png
+  type: manufacture
+  description: 集科研开发、生产制造、全球贸易于一体的大型民营企业集团
+
+- id: 2006
+  name: 无限极
+  url: https://www.infinitus.com.cn/
+  img: /img/logos/manufacture/无限极.png
+  type: manufacture
+  description: 以“无限极”为核心品牌，是一家从事中草药健康产品开发、生产及销售的大型港资企业
 
 - id: 3001
   name: 中国电信
@@ -188,7 +186,7 @@
   description: 国际领先的移动游戏开发商与发行商，专注于移动游戏的开发及发行
 
 - id: 4002
-  name: 小影
+  name: 小影科技
   url: http://www.xiaoying.tv/
   img: /img/logos/gaming/小影.png
   type: gaming
@@ -213,18 +211,16 @@
 
 
 
-
 - id: 5001
-  name: 华数传媒
-  url: http://www.wasu.com/
-  img: /img/logos/media/华数传媒.png
-  type: media
-  description: 国内首个构建在云上的大型视频网站
-
-- id: 5002
   name: 东方明珠
   url: http://www.oriental-pearl.cn/
   img: /img/logos/media/dfmz.png
   type: media
   description: 上海广播电视台、上海文化广播影视集团有限公司（SMG）旗下统一的产业平台和资本平台
 
+- id: 5002
+  name: 华数传媒
+  url: http://www.wasu.com/
+  img: /img/logos/media/华数传媒.png
+  type: media
+  description: 国内首个构建在云上的大型视频网站
