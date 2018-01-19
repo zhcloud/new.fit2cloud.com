@@ -1,43 +1,53 @@
 <div id="customer-container" class="container" style="margin-top: 0px">
-    <section id="vSphere">
-        <div class="row">
-            <div class="case-tab" id="case_400">
-                <div class="case-item" id="case-item-id">
-                    <div class="col-md-12" style="margin-bottom: 30px;">
-                       <div class="col-md-6">
-                           <span style="font-size: 30px;color: #06497D">FIT2CLOUD vSphere 云化解决方案</span>
-                       </div>
-                        <div class="col-md-5" style="margin-top: 10px">
-                            <span style="color: #7d7d7d;font-size: 20px" >快速将 vSphere 虚拟化平台变成私有云</span>
-                        </div>
-                    </div>
-                    <div class="col-md-12" style="color: #1B497C;padding: 0">
-                        <img src="/img/solution/vsphere.png" width="100%" >
-                    </div>
+
+    <!-- Page Content -->
+    {% for post in site.categories.devops reversed %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <section id="{{post.jump}}" class="content-section-a" style="padding-top: 50px;padding-bottom: -120px">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6 col-sm-offset-1">
+                    <div class="clearfix"></div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h4 class="section-subheading"> {{ post.description }}</h4>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-sm-6">
+                    <img class="img-responsive"
+                         style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;"
+                         src="/img/products/{{ post.img }}" alt="">
+                </div>
+            </div>
+
+        </div>
+    </section>
+    {% else %}
+    <section id="{{post.jump}}" class="content-section-b" style="padding-top: 50px;padding-bottom: -120px">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <h4 class="section-subheading"> {{ post.description }}</h4>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive"
+                         style="max-width:650px; max-height: 370px; padding-top: 20px; padding-bottom: 20px;"
+                         src="/img/products/{{ post.img }}" alt="">
                 </div>
             </div>
         </div>
     </section>
+    {% endif %}
+    {% endfor %}
 
 
-    <section id="test">
-        <!--style=" margin-top: 90px; border-top-width: 1px;border-top: solid;"-->
-        <div class="row" >
-            <div class="case-tab"  style="margin-top: 80px; border-top: 1px solid">
-                <div class="case-item" id="dddd">
-                    <div class="col-md-12" style="margin-bottom: 30px;">
-                        <div class="col-md-6">
-                            <span style="font-size: 30px;color: #06497D">FIT2CLOUD 开发测试云解决方案</span>
-                        </div>
-                        <div class="col-md-5" style="margin-top: 10px">
-                            <span style="color: #7d7d7d;font-size: 20px" >以应用为中心，快速试错、快速迭代</span>
-                        </div>
-                    </div>
-                    <div class="col-md-12" style="color: #1B497C;padding: 0">
-                        <img src="/img/solution/test.png" width="100%" >
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 </div>
