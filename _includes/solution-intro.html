@@ -1,10 +1,52 @@
-<div id="customer-container" class="container" style="margin-top: 0px">
-
+<section id="introductions">
+    <br/>
+    <br/>
     <!-- Page Content -->
-    {% for post in site.categories.devops reversed %}
-    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
-    <section id="{{post.jump}}" class="content-section-a" style="padding-top: 50px;padding-bottom: -120px">
+    <div class="content-section-a">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6 col-sm-offset-1">
+                    <div class="clearfix"></div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <h2  class="section-heading" style="text-align: center">为什么VMware 需要云化？</h2>
+                </div>
+                <div class="col-lg-5 col-sm-6">
+                    <img class="img-responsive" style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;" src="/img/solution/png2.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content-section-b">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <div class="clearfix"></div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <h2  class="section-heading" style="text-align: center">VMware 云化的客户收益</h2>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;" src="/img/solution/vmware.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% for post in site.categories.solution reversed %}
+    <div class="content-section-a">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-sm-6 col-sm-offset-1">
@@ -17,37 +59,31 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-6">
-                    <img class="img-responsive"
-                         style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;"
-                         src="/img/products/{{ post.img }}" alt="">
-                </div>
-            </div>
-
-        </div>
-    </section>
-    {% else %}
-    <section id="{{post.jump}}" class="content-section-b" style="padding-top: 50px;padding-bottom: -120px">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <div class="clearfix"></div>
-                    <br/>
-                    <br/>
-                    <br/>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <h4 class="section-subheading"> {{ post.description }}</h4>
-                    <div class="lead">{{ post.content }}</div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive"
-                         style="max-width:650px; max-height: 370px; padding-top: 20px; padding-bottom: 20px;"
-                         src="/img/products/{{ post.img }}" alt="">
+                    <img class="img-responsive" style="max-width:650px; max-height: 370px;padding-top: 20px; padding-bottom: 20px;" src="/img/products/plug.png" alt="">
                 </div>
             </div>
         </div>
-    </section>
-    {% endif %}
+    </div>
     {% endfor %}
+</section>
 
+<section id="whitepaper" class="whitepaper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-3 col-md-pull-1">
+                <img src="/img/logos/manufacture/shangqi.jpg" width="75%"
+                     style="box-shadow: 0 6px 15px 0 rgba(0, 0, 0, 0.2);"/>
+            </div>
+            <div class="col-md-6">
+                <p style="color: #428bca; font-size: 25px; font-weight: 500">VMware 云化的典型案例</p>
+                <p style="color: rgb(121, 122, 124); font-size: 16px; font-weight: 100; ">上汽乘用车通过部署 FIT2CLOUD 混合云管理平台大幅提升企业内部的IT资源交付效率和运行效率，实现“数据导向”的创新IT运营。<p>
 
-</div>
+                <div style="padding-top:5%">
+                    <a href="https://jinshuju.net/f/LhfQhH" target="_blank" class="btn btn-primary">获取详细案例信息</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
