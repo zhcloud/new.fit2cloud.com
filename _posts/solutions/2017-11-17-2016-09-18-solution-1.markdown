@@ -1,12 +1,11 @@
 ---
 jump: it
 layout: default
-img: plug.png
+img: products/hybrid-01.png
 category: solution
 title: 从虚拟化到云，到多云架构
-description:
+description:  FIT2CLOUD 原生支持多云架构，企业客户在 VMware 云化基础上继续实现
 ---
 
- FIT2CLOUD 原生支持多云架构，企业客户在 VMware 云化基础上继续实现：
-  *  利用公有云服务弹性扩展企业 IT，加速企业业务创新；
-  *  引入 OpenStack 等异构资源池，避免单一厂商锁定；
+ * 利用公有云服务弹性扩展企业 IT，加速企业业务创新
+ * 引入 OpenStack 等异构资源池，避免单一厂商锁定
