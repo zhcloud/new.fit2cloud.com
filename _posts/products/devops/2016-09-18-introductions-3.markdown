@@ -1,5 +1,5 @@
 ---
-jump: menage
+jump: manage
 layout: default
 img: menagement.png
 category: devops
