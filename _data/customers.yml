@@ -123,6 +123,13 @@
   type: manufacture
   description: 以“无限极”为核心品牌，是一家从事中草药健康产品开发、生产及销售的大型港资企业
 
+- id: 3000
+  name: 清华大学天津电子信息研究院
+  url: http://www.tsinghua-ieit.com/
+  img: /img/logos/other/tsinghua.png
+  type: other
+  description: 发挥清华大学高水平科学研究及人才培养的优势，进行电子信息领域科研成果的工程实现及产业化
+  
 - id: 3001
   name: 中国电信
   url: http://www.189.cn/
