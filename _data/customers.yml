@@ -69,6 +69,13 @@
   type: finance
   description: 山西省信用联合社于2005年8月正式挂牌成立，是由辖内113家市、县级联社发起设立
 
+- id: 1011
+  name: 中国中投证券
+  url: http://www.china-invs.cn/
+  img: /img/logos/finance/zhongtou.png
+  type: finance
+  description: 一家全国性综合类的证券公司，由中央汇金投资有限责任公司全资控股
+
 
 
 
