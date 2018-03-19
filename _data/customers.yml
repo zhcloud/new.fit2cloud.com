@@ -130,12 +130,19 @@
   type: manufacture
   description: 以“无限极”为核心品牌，是一家从事中草药健康产品开发、生产及销售的大型港资企业
 
-- id: 2006
+- id: 2007
   name: 贝因美
   url: http://www.beingmate.com/
   img: /img/logos/manufacture/bei.png
   type: manufacture
   description: 以“亲子顾问，育儿专家”为品牌定位，主要从事婴幼儿食品的研发、生产和销售等业务
+
+- id: 2008
+  name: 斐讯
+  url: http://www.phicomm.com/cn/
+  img: /img/logos/manufacture/feixun.png
+  type: manufacture
+  description: 智能家庭中的网络产品制造商、智能硬件供应商和云服务运营商
 
 
 
