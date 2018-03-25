@@ -144,6 +144,20 @@
   type: manufacture
   description: 智能家庭中的网络产品制造商、智能硬件供应商和云服务运营商
 
+- id: 2009
+  name: 正泰集团股份有限公司
+  url: http://www.chint.com/zh/
+  img: /img/logos/manufacture/zheng.png
+  type: manufacture
+  description: 创建于1984年，是我国工业电器龙头企业和新能源领军企业
+
+- id: 2010
+  name: 药明康德
+  url: http://www.wuxiapptec.com.cn/
+  img: /img/logos/manufacture/yao.png
+  type: manufacture
+  description: 全球领先的制药以及医疗器械研发开放式能力和技术平台公司
+
 
 
 
