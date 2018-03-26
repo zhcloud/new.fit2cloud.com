@@ -523,6 +523,18 @@ p.copyright {
     max-width: 198px;
 }
 
+.container a.case-logo1 {
+    display: block;
+    width: 240px;
+    height: 340px;
+    border: 1px solid #f0f0ff;
+    text-align: center
+}
+
+.case-logo1 img {
+    max-width: 239px;
+}
+
 .container .case-item h2 {
     margin-top: 0px;
     font-size: 24px;
